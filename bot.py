@@ -13,7 +13,7 @@ from feeds import FEEDS
 load_dotenv()
 TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
-MAX_PER_CATEGORY = int(os.getenv("MAX_PER_CATEGORY", "4"))
+MAX_PER_CATEGORY = int(os.getenv("MAX_PER_CATEGORY", "20"))
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 
 def clean(text):
