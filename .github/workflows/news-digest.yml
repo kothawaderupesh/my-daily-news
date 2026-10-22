@@ -1,32 +1,33 @@
 name: Telegram News Digest
 
 on:
-schedule:
-# 6:00 AM IST = 00:30 UTC
-- cron: “30 0 * * *”
+  schedule:
+  # 6:00 AM IST = 00:30 UTC
+  - cron: “30 0 * * *”
 
-# 6:00 PM IST = 12:30 UTC
-- cron: "30 12 * * *"
+  # 6:00 PM IST = 12:30 UTC
+  - cron: "30 12 * * *"
 
 
-workflow_dispatch:
+  workflow_dispatch:
 
 permissions:
-contents: read
+  contents: read
 
 concurrency:
-group: telegram-news-digest
-cancel-in-progress: false
+  group: telegram-news-digest
+  cancel-in-progress: false
 
 jobs:
-send-news:
-runs-on: ubuntu-latest
-timeout-minutes: 10
+  send-news:
+  runs-on: ubuntu-latest
+  timeout-minutes: 10
 
 env:
   TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
   TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
   MAX_PER_CATEGORY: "4"
+
 steps:
   - name: Check out repository
     uses: actions/checkout@v4
