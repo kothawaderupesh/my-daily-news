@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     env:
-      MAX_PER_CATEGORY: "4"
+      MAX_PER_CATEGORY: "10"
 
     steps:
       - name: Check out repository
