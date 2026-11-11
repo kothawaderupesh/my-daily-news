@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-11-10T19:54:02.002911+00:00",
+  "generated_at": "2026-11-11T06:54:56.371762+00:00",
   "timezone_note": "generated_at is UTC",
   "categories": [
     {
       "name": "India",
       "stories": [
         {
-          "title": "IT hubs see 82% commute by personal vehicles, just 2% use public transport",
-          "summary": "",
+          "title": "CII Partnership Summit begins in Visakhapatnam on November 12; Amit Shah to address inaugural session",
+          "summary": "Over 3,800 delegates from 59 countries are expected at the two-day summit, with more than 160 MoUs lined up",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/cities/Visakhapatnam/cii-partnership-summit-begins-in-visakhapatnam-on-november-12-amit-shah-to-address-inaugural-session/article71688259.ece",
+          "published": "2026-11-11T12:21:13+05:30"
+        },
+        {
+          "title": "Keralam power purchase row: CM Satheesan plays down issue, dismisses charges that Electricity Minister was kept in the dark",
+          "summary": "Satheesan says KSEB had 'never entered into a power purchase agreement with GNA in the first place’ and that he is ‘not aware whether KSEB had misled him or not’",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/kerala/keralam-power-purchase-row-cm-satheesan-plays-down-issue-dismisses-charges-that-electricity-minister-was-kept-in-the-dark/article71688584.ece",
+          "published": "2026-11-11T12:16:32+05:30"
+        },
+        {
+          "title": "BJP wins 77 seats of five Tripura civic bodies unopposed; elections for rest on November 27",
+          "summary": "Now, the voting will be held in 268 seats, which are set to witness a triangular fight among the BJP-led NDA, CPI(M) and the Congress",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/tripura/bjp-wins-77-seats-of-five-tripura-civic-bodies-unopposed-elections-for-rest-on-november-27/article71688590.ece",
+          "published": "2026-11-11T12:09:16+05:30"
+        },
+        {
+          "title": "Govt. prohibits export of unsorted lithium-ion battery waste, scrap",
+          "summary": "Under the earlier policy, the export of the specified category of battery waste and scrap was permitted under the ‘Free’ category. With the latest amendment, exporters will no longer be allowed to export the material under this category",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/business/govt-prohibits-export-of-unsorted-lithium-ion-batterywaste-scrap/article71688575.ece",
+          "published": "2026-11-11T12:02:34+05:30"
+        },
+        {
+          "title": "YSRCP, TDP ask cadres not to comment on Andhra Deputy CM Pawan Kalyan’s separation, respect couple’s privacy",
+          "summary": "The YSRCP and the TDP warn their social media activists against discussing the couple’s personal life",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-tdp-ask-cadres-not-to-comment-on-andhra-deputy-cm-pawan-kalyans-separation-respect-couples-privacy/article71687106.ece",
+          "published": "2026-11-11T12:01:49+05:30"
+        },
+        {
+          "title": "Fake QR code to divert charity fund: Case filed against trust in Keralam",
+          "summary": "Money allegedly collected using fake QR code created in names of children suffering from Spinal Muscular Atrophy",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/kerala/fake-qr-code-to-divert-charity-fund-case-filed-against-trust-in-keralam/article71688239.ece",
+          "published": "2026-11-11T12:00:12+05:30"
+        },
+        {
+          "title": "Delhi air quality deteriorates, AQI settles at 303",
+          "summary": "The national capital is battling rising pollution levels after Deepavali, with stubble burning in neighbouring States contributing to the deterioration",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/cities/Delhi/delhi-air-quality-deteriorates-aqi-settles-at-303/article71688408.ece",
+          "published": "2026-11-11T11:59:33+05:30"
+        },
+        {
+          "title": "Only 2% commuters in Cyberabad’s IT Hub take public transport, 82% move in personal vehicles",
+          "summary": "Using shared transport vehicles and aligning hybrid work schedules were some of the measures reccommended to corporates by Cyberabad Police",
           "source": "The Hindu",
           "link": "https://www.thehindu.com/news/cities/Hyderabad/it-hubs-see-82-commute-by-personal-vehicles-just-2-use-public-transport/article71686991.ece",
-          "published": "2026-11-11T01:03:58+05:30"
+          "published": "2026-11-11T11:59:26+05:30"
         },
         {
-          "title": "Without any rationale: On the disbanding of the Justice Kurian Joseph Committee",
-          "summary": "India’s federal structure could have benefited from the Kurian Committee",
+          "title": "When Jayalalithaa sacked Ministers even before they moved into their official bungalows",
+          "summary": "We revisit how former Chief Minister and AIADMK general secretary Jayalalithaa, who, like Chief Minister C. Joseph Vijay, ensured her party revolved around her charismatic personality, handled her Ministers, sacking them when warranted",
           "source": "The Hindu",
-          "link": "https://www.thehindu.com/opinion/editorial/without-any-rationale-on-the-disbanding-of-the-justice-kurian-joseph-committee/article71686725.ece",
-          "published": "2026-11-11T01:02:37+05:30"
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/when-jayalalithaa-sacked-ministers-even-before-they-moved-into-their-official-bungalows/article71686003.ece",
+          "published": "2026-11-11T11:57:14+05:30"
         },
         {
-          "title": "World Wars and India’s sacrifice",
-          "summary": "We owe it to ourselves to be honest with our past, just as we owe it to our armed forces to honour the sacrifices of those who went before them",
+          "title": "Assam train derailment LIVE updates: Six coaches of Sairang-Kolkata Express train derail",
+          "summary": "No injuries reported so far; alternate trains arranged to to help passengers reach their destinations",
           "source": "The Hindu",
-          "link": "https://www.thehindu.com/opinion/op-ed/world-wars-and-indias-sacrifice/article71687275.ece",
-          "published": "2026-11-11T00:50:55+05:30"
-        },
-        {
-          "title": "Civil police officer injured in attack by detained man in Keralam’s Kochi",
-          "summary": "The officer was injured after a man who had been detained on charge of creating public nuisance in the city allegedly bit on his hands while he was being taken in a police vehicle for medical examination",
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/kerala/cpo-injured-in-attack-by-detained-man-in-keralams-kochi/article71686336.ece",
-          "published": "2026-11-11T00:45:41+05:30"
-        },
-        {
-          "title": "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human rights violations by SIT",
-          "summary": "She claims to have been deboarded from a Singapore-bound airplane and picked up from the airport by the police without showing any summons, warrant, court order or Look Out Circular",
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramanis-daughter-archana-moves-madras-high-court-alleging-human-rights-violations-by-sit/article71686923.ece",
-          "published": "2026-11-11T00:42:33+05:30"
-        },
-        {
-          "title": "Focus on Tamil during Kandasashthi: Minister",
-          "summary": "He urged temples under the purview of the department to ensure that Odhuvars chant/sing the Thirupugazh, Thirumurai, and Kandasashthi kavacham",
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/cities/chennai/focus-on-tamil-during-kandasashthi-minister/article71686608.ece",
-          "published": "2026-11-11T00:33:54+05:30"
-        },
-        {
-          "title": "Tamil Nadu police step-up surveillance on habitual offenders",
-          "summary": "443 accused persons arrested in Statewide drive against rowdyism",
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-police-step-up-surveillance-on-habitual-offenders/article71686338.ece",
-          "published": "2026-11-11T00:27:16+05:30"
-        },
-        {
-          "title": "Keralam at 70: holding a mirror to India",
-          "summary": "At a time when majoritarian nationalism encompasses large parts of India, Keralam at 70 is still offering a vision of secularism and pluralism",
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/opinion/op-ed/keralam-at-70-holding-a-mirror-to-india/article71687272.ece",
-          "published": "2026-11-11T00:26:22+05:30"
-        },
-        {
-          "title": "Recent repairs on OMR come undone",
-          "summary": "The Sholinganallur junction has a particularly bad patch that is riddled with potholes",
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/cities/chennai/recent-repairs-on-omr-come-undone/article71687203.ece",
-          "published": "2026-11-11T00:19:27+05:30"
-        },
-        {
-          "title": "Tasmac introduces three year transfer norm for shop employees",
-          "summary": "The move aims at streamlining staff deployment and addressing manpower shortages",
-          "source": "The Hindu",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/tasmac-introduces-three-year-transfer-norm-for-shop-employees/article71687082.ece",
-          "published": "2026-11-11T00:14:52+05:30"
+          "link": "https://www.thehindu.com/news/national/assam/assam-sairang-kolkata-express-train-coaches-derailment-accident-today-live-updates-november-11-2026/article71688339.ece",
+          "published": "2026-11-11T11:54:20+05:30"
         }
       ]
     },
@@ -81,74 +81,74 @@
       "name": "World",
       "stories": [
         {
-          "title": "Parents sue to stop Washington state trans sports ban that could require ‘invasive’ genital exams",
-          "summary": "Voters adopted extreme policy requiring medical sex verification for all girls who want to play team sports Parents of student athletes in Washington state have sued to block a ballot initiative banning transgender girls from women’s sports teams, calling the measure discriminatory and warning it would lead to “invasive” genital examinations for female athletes. Last week, voters in the solidly Democratic state passed Initiative 638 , a major setback for LGBTQ+ rights amid the “blue wave” of the US midterm elections. Nebraska, Colorado and Arizona adopted similar anti-trans sports bans, though advocates say Washington state’s policy is particularly extreme due to its medical sex verification requirement for all girls who want to play team sports. Continue reading...",
+          "title": "One Nation Victoria candidate apologises for slew of offensive comments about lesbians, Indians and Julia Gillard",
+          "summary": "Exclusive: Chris Moore, running for the party in Greenvale, made derogatory social media comments between 2010 and 2012 Get our daily political email , free app or daily news podcast A One Nation candidate in Victoria has apologised for a series of offensive comments including repeated references to Australian-Indians as “curry munchers”, comparing a woman in burqa to a bag of rubbish, and sharing an image calling Julia Gillard a slut. The party’s candidate for Greenvale on Melbourne’s north-western fringe, Chris Moore, also made derogatory comments about lesbians and refugees and once posted that he “doesn’t like the way the new homo cleaner at work looks at me”. Continue reading...",
           "source": "Guardian World",
-          "link": "https://www.theguardian.com/us-news/2026/nov/10/washington-trans-sports-ban-lawsuit",
-          "published": "2026-11-10T19:49:49+00:00"
+          "link": "https://www.theguardian.com/australia-news/2026/nov/11/one-nation-candidate-apologises-offensive-comments-ntwnfb",
+          "published": "2026-11-11T06:27:38+00:00"
         },
         {
-          "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
-          "summary": "As Democrats prepare to take control of Congress, Republicans pick Jordan for last two years of Trump’s presidency Republican lawmakers have elected Jim Jordan, veteran congressman and Trump loyalist, as their leader in the House of Representatives following resounding losses in last week’s US midterm elections. As Democrats prepare to take control of both chambers of US Congress in January, Republicans backed Jordan to lead them in the House for the last two years of Donald Trump’s presidency. Continue reading...",
+          "title": "Aldi cuts hundreds of UK head office and logistics roles as part of global cost trimming",
+          "summary": "Supermarket’s move labelled ‘shortsighted’ by worker who calls upper management ‘woefully out of touch with reality’ Aldi’s UK business is cutting hundreds of head office and logistics roles as part of a global effort to trim costs at the budget grocer. The retailer is consulting with its technology team on the loss of up to 150 roles after 103 redundancies in its finance and administration team earlier this year and almost 20 more redundancies among buying directors. Continue reading...",
           "source": "Guardian World",
-          "link": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
-          "published": "2026-11-10T19:40:10+00:00"
+          "link": "https://www.theguardian.com/business/2026/nov/11/aldi-cuts-hundreds-of-uk-head-office-and-logistics-roles-global-cost-trimming",
+          "published": "2026-11-11T06:00:34+00:00"
         },
         {
-          "title": "Republicans elect Ohio congressman Jim Jordan as House minority leader – US politics live",
-          "summary": "Hardline conservative Jordan beat Steve Scalise by a vote of 106-73 Republicans elect Jim Jordan as House minority leader after party’s midterm defeats Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the articles themselves, Iran, the cartels, Maduro, Yemen, everyone was a lawful operation ordered by the commander-in-chief, then ordered by myself, notified to Congress and executed by American warriors who did their jobs,” he said. “We destroyed terror regimes’ capabilities. We sank the boats carrying poison into our communities. We put a narco dictator in handcuffs. These are not high crimes. This is the job, and it’s the job well done.” Continue reading...",
+          "title": "Woman in Saudi Arabia sentenced to 100 lashes for giving birth outside marriage",
+          "summary": "Rights groups condemn reported punishment of Kenyan migrant worker as an ‘act of violence’ A Kenyan mother in Saudi Arabia has reportedly been sentenced to 100 lashes after giving birth outside marriage. Under the Saudi sharia law system, sex outside marriage is a criminal offence. But it is women who are disproportionately targeted, say rights groups, which have condemned the punishment as an “act of violence”. Continue reading...",
           "source": "Guardian World",
-          "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
-          "published": "2026-11-10T19:34:07+00:00"
+          "link": "https://www.theguardian.com/global-development/2026/nov/11/woman-in-saudi-arabia-sentenced-to-100-lashes-for-giving-birth-outside-marriage",
+          "published": "2026-11-11T06:00:33+00:00"
         },
         {
-          "title": "UK counter-terrorism police arrest member of US army with alleged links to Russia",
-          "summary": "Man, 41, arrested as part of an investigation by British police working with US authorities, US military and FBI A member of the US army with alleged links to Russia has been arrested by British counter-terrorism police. The man, 41, was arrested as part of an investigation by Counter Terrorism Policing, working closely with US authorities, the US military and the FBI, Counter Terrorism Policing London said. Continue reading...",
+          "title": "Whitehall is too ‘tame, reactive and risk-averse’, says UK’s top civil servant",
+          "summary": "Antonia Romeo pledges to ‘rewire’ civil service by incentivising and rewarding top performers Whitehall is too “tame, reactive and risk-averse”, the cabinet secretary has said, as she set out a “completely new approach” to managing the performance of civil servants. With Andy Burnham and his deputy, Louise Haigh, in the audience, the UK’s most senior civil servant, Antonia Romeo, gave a lecture saying she would bring radical change to Whitehall as it deals with uncertainty caused by AI and global political tensions. Continue reading...",
           "source": "Guardian World",
-          "link": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
-          "published": "2026-11-10T19:25:37+00:00"
+          "link": "https://www.theguardian.com/politics/2026/nov/11/whitehall-tame-reactive-risk-averse-antonia-romeo-cabinet-secretary",
+          "published": "2026-11-11T06:00:31+00:00"
         },
         {
-          "title": "Trump’s FCC nominee avoids questions from Democrats on Carr’s ‘censorship agenda’",
-          "summary": "Senators pressured Danielle Thumann, senior counsel to FCC chair Brendan Carr, to speak about agency’s actions toward ABC and Jimmy Kimmel During a contentious Tuesday hearing on her nomination by Donald Trump to serve as a Federal Communications Commission (FCC) commissioner, Senate Democrats hammered Danielle Thumann about recent actions taken by the Brendan Carr-led regulator that have been criticized as hostile to press freedom. Thumann, who serves as senior counsel to Carr, is expected to be approved as commissioner, with Republicans in charge of the US Senate and House. But Ben Ray Luján, a senator of New Mexico, assured her that the commission’s actions will be under close scrutiny when Democrats take charge of the chamber in January. Continue reading...",
+          "title": "Labour MPs raise concerns Burnham’s 10-year-plan will not be radical enough",
+          "summary": "Exclusive: Reindustrialisation Research Group to meet with Cabinet Office to discuss worries over PM’s long-term strategy Labour MPs have sounded the alarm over Andy Burnham’s 10-year plan for government, raising concerns that it will not be radical or detailed enough. MPs in the Reindustrialisation Research Group (ReRG), many of whom represent “red wall” seats that helped Labour win the last election, are meeting Sally Jameson, the Cabinet Office minister, on Wednesday to share their concerns about the prime minister’s long-term strategy. Continue reading...",
           "source": "Guardian World",
-          "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-fcc-nominee-danielle-thumann",
-          "published": "2026-11-10T19:19:46+00:00"
+          "link": "https://www.theguardian.com/politics/2026/nov/11/labour-mps-raise-concerns-andy-burnham-10-year-plan-not-radical-enough",
+          "published": "2026-11-11T06:00:30+00:00"
         },
         {
-          "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
-          "summary": "Countries clash over Sea Lion project as Hamburg tribunal risks deepening sovereignty dispute The people of the Falkland Islands face “devastating consequences” if Argentina is successful in blocking development of its offshore oilfield, the attorney general for England and Wales has told an international tribunal. Ellie Reeves, representing the British government at a hearing of the international tribunal for the law of the sea (Itlos), said billions of pounds vital to the future of the British overseas territory would be lost. Continue reading...",
+          "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+          "summary": "Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effort Ukraine says it has captured its first Indonesian prisoner of war, amid what it says is a spike in recruitment by Russia from the south-east Asian nation. The 49-year-old man from Java was taken to Ukraine’s Zaporizhzhia region to take part in a Russian assault, but managed to reach Ukrainian-held territory after the group came under drone attack, according to Ukraine’s state-run I Want to Live project. He was then captured by the Ukrainians. Continue reading...",
           "source": "Guardian World",
-          "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
-          "published": "2026-11-10T19:01:33+00:00"
+          "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
+          "published": "2026-11-11T05:33:27+00:00"
         },
         {
-          "title": "House Republicans urge DoJ to further investigate ‘key witnesses’ in Epstein case",
-          "summary": "Republicans on House panel criticize US government’s investigation into Jeffrey Epstein and Ghislaine Maxwell Republicans on the House oversight committee released a report on Tuesday criticizing the federal government’s handling of the investigations into Jeffrey Epstein and his associate, Ghislaine Maxwell, and called on the Department of Justice to interview “key witnesses, investigate Epstein associates accused of criminal activity, and ensure survivors have access to their records”. “The federal government has failed the survivors of Jeffrey Epstein and Ghislaine Maxwell’s horrific crimes for decades,” James Comer, the Republican congressman who chairs the committee, said in a statement . Continue reading...",
+          "title": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
+          "summary": "Charities warn of lack of protection amid health fears for more than 940,000 displaced people living in flood-prone areas Tens of thousands of Palestinians have been left in waterlogged and damaged tents after deadly storms at the weekend, while 150,000 new shelters are held outside Gaza awaiting Israeli approval to enter, aid agencies have said. At least four Palestinian children and woman were killed as heavy rains and wind battered fragile, leaky tents. Thousands have been left without shelter and sanitation infrastructure has been destroyed, with sewage spewing into people’s tents. Continue reading...",
           "source": "Guardian World",
-          "link": "https://www.theguardian.com/us-news/2026/nov/10/house-republicans-epstein-investigation",
-          "published": "2026-11-10T18:44:17+00:00"
+          "link": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
+          "published": "2026-11-11T05:00:32+00:00"
         },
         {
-          "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
-          "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-10T18:35:35+00:00"
-        },
-        {
-          "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-          "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-10T18:33:51+00:00"
-        },
-        {
-          "title": "Judge who sentenced Russell Brand praised for dispelling rape myths",
-          "summary": "Criminal Bar Association and campaigners hail Mr Justice Bennathan for delivering remarks with ‘piercing clarity’ The judge who sentenced Russell Brand has been praised for dispelling rape myths with “piercing clarity”. Mr Justice Bennathan’s sentencing remarks were particularly welcomed given that rape myths had played a part in the trial. He was also lauded for calling out “enablers” who witnessed sexual assaults by the comedian. Continue reading...",
+          "title": "Thousands of rare wildflowers rescued from eroding Scottish coast",
+          "summary": "Conservationists relocate 3,400 one-flowered wintergreens, a species estimated to have lost more than half its UK population in the past 50 years Thousands of one of Britain’s rarest wildflowers have been moved to safety from an eroding Scottish shoreline where they were at risk of falling into the sea. Conservationists rescued 3,400 one-flowered wintergreen plants at Culbin Forest in Moray, in an effort to protect a species estimated to have lost more than half its UK population in the past 50 years. Continue reading...",
           "source": "Guardian World",
-          "link": "https://www.theguardian.com/news/2026/nov/10/judge-sentenced-russell-brand-praised-rape-myths-justice-bennathan",
-          "published": "2026-11-10T18:11:00+00:00"
+          "link": "https://www.theguardian.com/environment/2026/nov/11/one-flowered-wintergreen-rescue-eroding-coast-scotland",
+          "published": "2026-11-11T05:00:32+00:00"
+        },
+        {
+          "title": "Fresh concerns raised over Gaza doctor held by Israel for 23 months without charge",
+          "summary": "Independent Israeli professor says Hussam Abu Safiya’s life will be at risk until he receives proper medical treatment An independent professor who reviewed the medical records of a prominent Gaza doctor held in an Israeli prison without charge for nearly 23 months has raised serious concerns about his health. Hussam Abu Safiya was detained at work on 27 December 2024 and later held in solitary confinement at Rakefet, a notorious underground prison. Continue reading...",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/nov/11/fresh-concerns-over-gaza-doctor-held-by-israel",
+          "published": "2026-11-11T05:00:29+00:00"
+        },
+        {
+          "title": "Youpla directors disqualified over collapsed funeral fund that targeted Aboriginal families",
+          "summary": "Three directors were fined a combined $90,000 in federal court judgment and disqualified from managing a corporation for between five and 10 years Get our breaking news email , free app or daily news podcast Three directors of a collapsed funeral fund that marketed insurance to Aboriginal families have been banned from managing corporations for at least five years and ordered to pay a combined $90,000 after being found to have breached their duties to clients. On Wednesday, federal court justice Geoffrey Kennett ordered the former director of the insurance company Youpla Group, previously the Aboriginal Community Benefit Fund (ACBF), Jonathan Law, to pay the commonwealth $50,000 and disqualified him from managing corporations for six years. Continue reading...",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/11/youpla-directors-disqualified-over-collapsed-funeral-fund-that-targeted-aboriginal-families-ntwnfb",
+          "published": "2026-11-11T04:55:28+00:00"
         }
       ]
     },
@@ -156,74 +156,74 @@
       "name": "Technology & AI",
       "stories": [
         {
-          "title": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor - Reuters",
-          "summary": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor    Reuters",
+          "title": "TCS Becomes the Official AI and Technology Partner of the Rio Marathon - CXOToday.com",
+          "summary": "TCS Becomes the Official AI and Technology Partner of the Rio Marathon    CXOToday.com",
           "source": "Google News AI",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5",
-          "published": "2026-11-10T19:35:28+00:00"
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFlxNnRLdGxmZEMxWGM2S0lDQ2pnUFJfY2ZrN2k1eEhDdkpLdFJJOGZqeEZQU3A5UXYySTVzQW5SMTRPWmF4dl9tamRoMlY0bndwWHNiRFptc0JSWV9RVU16NHJPMDVkVnFsZ1N6QXdTMGpTaldTY0NRQ25yRk1fc0tPY0dJbWpwUGotUGZLMW5OUGowZEJMc1FKZjU0NHp4cTBER3hIZlBLbEk?oc=5",
+          "published": "2026-11-11T06:47:29+00:00"
         },
         {
-          "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-          "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-          "source": "TechCrunch AI",
-          "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-          "published": "2026-11-10T19:23:34+00:00"
-        },
-        {
-          "title": "Democrats midterm victory provides AI opportunity for Europe - The Times",
-          "summary": "Democrats midterm victory provides AI opportunity for Europe    The Times",
+          "title": "Meta takes its AI models to Google Cloud, adds three models to Model Garden - Fortune India",
+          "summary": "Meta takes its AI models to Google Cloud, adds three models to Model Garden    Fortune India",
           "source": "Google News AI",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOWl3X3BjLUR3eFZnOEhQSnVGWnVNMHJPYjE0aEdsWDNnVS13Q1QzcmhLYnFhbW8xVzI4aEZCdDYyZC1qbFJLNmo2akFpajlzNjlUcHJ2cGM2Y3BMaFdQbFd2aVBMaUxTai1Sb0VIWExNWEVFVm55LXk0YWFHSlFkZEZYVDUxdVJBOHN5b0dsQ2JwWnlIYWIyTU9LeS01T3NMUHpQVDI3UWVzYVdFOEVXSl9xbFVRYzdBQXpHcm83U3U?oc=5",
-          "published": "2026-11-10T19:20:00+00:00"
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSkJ0VHcxd3REUGYxXzhMbGhYYkxzaTNac0hsalQteWF5dUFaRjhKX291d2JHdWJoYXYyckVGbWs1TElVYUxsVUtHTHJpa0dHMGg2VnVjbnFwV3dnZkxxWUQ5b1gxUzFEWVFfcUU3OC1WS3hiay1WNFdPNlZneC1rV3hUbUt3X0tjZG9MZjY1MGlZMktrQXlCbUJvVWdWTXM0aFoxOGJROEdfN3h2Y3FFbTFKTVJFdU5HUWtjektR0gHLAUFVX3lxTE5PSUZ2aGIxY2RmQlZ2cXUzWlNmZko1bzZuLUI3MVlVUjlLMDJVTWMzakNqM3hidXJ1MlF6LVhTYmtReDhRbnlPcGQzd0E4VE1SeEhfcG44eW53RkJGNjg0LVc4V2xJSTU4VHJlLVBvVHZza0dFaDJqUmh3aVR4NGJwbm5kZURhWjdNNW9IZmtWSDVuTXhPbkJkdDc1RFphOXBaV0ZDOTUtNUtZV3RMbmhHSF90dG50Z1NYcTRhZ2RBTDZVejdLNTRKZS13?oc=5",
+          "published": "2026-11-11T06:38:09+00:00"
         },
         {
-          "title": "3 AI Stocks With Revenue Growth Over 41% - Yahoo Finance",
-          "summary": "3 AI Stocks With Revenue Growth Over 41%    Yahoo Finance",
+          "title": "WhatsApp to make connections richer, use AI to save time; privacy unchanged: CEO Kunal Shah - Deccan Herald",
+          "summary": "WhatsApp to make connections richer, use AI to save time; privacy unchanged: CEO Kunal Shah    Deccan Herald",
           "source": "Google News AI",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3ZFa05fN1Bvd09jdnhTdTl3RHFKb0MzQ2IyOW9vcHdoX3FrM3VQcXJKOXBXa2p2TXBmTm96Wk9TVjhNeExvN1IyXzZ5NFBBRGFCS0R5TG9TOS1xNlpCNEJuajR0bXBOQ2JXTFlPMmdpdHp4MkJaQURkU1V1M3N2MWZ6RVQ1M0R4eEJVbmxmQ2tsdEFL?oc=5",
-          "published": "2026-11-10T19:13:30+00:00"
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa0ZlcUNNTks4anY4bUg4Ml95WVN0NXBYeG1weTZOS0NPMUltRFhHVzFFZktxb1E2VjdmeXFvNWZsUGJzbnRuNlJmdUhWSWI1bk1SSUJadnhWV1JwS0N0b3R6TUx4aDlFU2ZZMmxLVmxSM1F1Rk1XRlFicDNBQVBmUDJlMHhUdFJXNHJWUExQTE16NUVHS2RtRnl5NjY0bnRrWmZhWXFPMm1vMXJZcExuNmxtNUFCd3dqa0ZTNktLbmN6NzhOYlEyZV9sUkxsTHZyN2c?oc=5",
+          "published": "2026-11-11T06:31:31+00:00"
         },
         {
-          "title": "AI Startup Sierra Is an Anchor Tenant for $300 Million Bond Deal - Bloomberg.com",
-          "summary": "AI Startup Sierra Is an Anchor Tenant for $300 Million Bond Deal    Bloomberg.com",
+          "title": "Nothing’s AI-native device revealed: Two LEDs, one button, no screen — details here - Livemint",
+          "summary": "Nothing’s AI-native device revealed: Two LEDs, one button, no screen — details here    Livemint",
           "source": "Google News AI",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1B4SzVKa3NZZDduQmwwMkhyNml3bnotV2VfVWp2WWw3bDlGMlJNX1pBZGJZcmp3M3lHWEdGNlBGTDQ3ZHNnVXNUZWw4eURpVDVkWTJtM19kSjlZeEZRMno5T2VnLXFpSkw4RkQta2l2b0NJZUlJWXlGYTJXcS0wS1lGWTdzdFRwQS0tUXA2RTFubm9aYUM4SVNMbzhMbk4zMUJNcDFxNjdiMXdyek5vVnJZd1U?oc=5",
-          "published": "2026-11-10T19:09:13+00:00"
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeGd1VzFKcjNKNWRiQWZ2clBDYTFUMnd0Q2RUVHRiVWVnaktoVUlBZ1lYODVDc1hkcG1IbzRIN09RMVBJa3pFTDcyTGlHUGw2MzhlUXhsZ1pzSkI4LTJ2MHBBdnNzblFjRzJtX3BkRUdLc3gwQ0R0bVQyd1BFbUc0RkJTTlpRMjVXbHNVUmwtVWxkalBBeTgyV3ZsZ3RxRmluTUlXR2ZuTXFHQjNaTThuQ1VjakxXcVRETVRLS3dMMWdpcC15ZjdQd2tGeFZDZ9IB0wFBVV95cUxPMFFkTjlrdlJEUTVmUTY5SEtsVHptNWhBNTdaWS1XbGpjX1drRU1veEpRRS15X1J6Z0syQ1FiZ3kyQkQxRXdQUEx2bjI4SWxnSmJuVldjZ29FQWhxU0JuamdIVS1kYkRMYUl5akkxV1dObHM3Mmg3X2tQaURDVjZKTXA5d0c2Rl96Yk9lamdic1hQRnJuRXUzMXh2VmhNc1lSUWxTVkotbllucHZxa2lTLWhZck54dDFpYnF3YURjWnZ2aE1JaFJJdU9OaUxyVVNnQzFJ?oc=5",
+          "published": "2026-11-11T06:22:39+00:00"
         },
         {
-          "title": "Webinars to focus on the ‘human side’ of workplace tech and AI - Safety+Health Magazine",
-          "summary": "Webinars to focus on the ‘human side’ of workplace tech and AI    Safety+Health Magazine",
+          "title": "Mint Explainer | US AI sell-off: Are Indian AI-linked stocks next? - Livemint",
+          "summary": "Mint Explainer | US AI sell-off: Are Indian AI-linked stocks next?    Livemint",
           "source": "Google News AI",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzU0SVN0UG50UU5ZYmFHV2lHdEU5NTUyM0doWjdKRHREYXdBVmFZWGxTSkZuMl82Q2hFZ3dVSlk3V016X3BFazNEWTdPSlF5dHpRcXR3VU9CSzFCOHZjUVd4T1RGMmJ6dFNLSllYNjZ4eVNNbTVQUWNaSVBWZ1ZyVDB4d1puRURra3B2WW1WNTlkTUxtOXpiR0s1d2FvQXUyMEFZ?oc=5",
-          "published": "2026-11-10T19:08:50+00:00"
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbGhCVG1SYUFMX25PY3BSTFRMS3BhMzJLdVB5RWxFeHlNTTNacWhKc2V6aUZaaHZmMENfM2hNUjZ4Smdab0NFcXJHMFA2OV80U1pKclRnaE9FU2U1bjc4TEt0YVZJWHlaZ3lGakZZdTJCUmVfd0s0NTd3OU0tcDM1bVFiLW4tU1VBM3A0UExHTUl4WXZOT3d0SWphNTN3V0ozUFBWbHBTOHd2OVhyNmk1OFlsU3lVWGtDRFdnYdIBwgFBVV95cUxOYzRYTWpqX3NpcVNyTTVHckJUSno1dDVDcWxOaHNEcnlLVDZYQmF5N0M1b0lORXdkeURuMHh1OGpxVWVJcnhPbXNkVkpaWFYzNWJobWhKUFNnMXM0MFRMb3Q5UmVoNzlUMGwzM3JQRXZSUmhQOW43eWVxM0J4VlhGZzVHaUxmT0Z6VTZqTUJ6dU1VVnZwQnY0c3NldXZjMEJOcjhPZVE2aE80N2VwbjNpQkc4NmQxYUxYNGQ2cV9wQjZpZw?oc=5",
+          "published": "2026-11-11T06:13:40+00:00"
         },
         {
-          "title": "Forge Global sees top bid activity in AI, defense technology, robotics, finance and biotech - Traders Union",
-          "summary": "Forge Global sees top bid activity in AI, defense technology, robotics, finance and biotech    Traders Union",
+          "title": "Adobe (ADBE) Expands Its AI Partnership and Workspace Reach - Yahoo Finance",
+          "summary": "Adobe (ADBE) Expands Its AI Partnership and Workspace Reach    Yahoo Finance",
           "source": "Google News AI",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1ZkSTN2YzQ3empYRURsbThSRlE2Z3paZTdhdktYWmhmMHBQS1REWUhfU09hNmhPbTZjX3BZd1ZIS2poN3B1eEpMM0RmX0NlSlE5MHpVUmtDc0YtczhWTHJWTVVBTjZHYVM1N0k4Qmx6WWZUQTNBaTQzLTU2el84XzNGOU5Mdw?oc=5",
-          "published": "2026-11-10T19:05:29+00:00"
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnViUVdna1VQZEhSenBrTVpoQnpTYUhqUGU0X2RMdnhSX0d1ZmJEaGFoeVVxY1J2TFFtXzFXRDJnVEVkRHFWNmpxN1RYS045RXpvSUFyckdGcFdJQ29OaXg3QnV5TkJlcEVfclRVQ3B3emV6Q0wtU3N0SXJUeHhQTFk4RzlfVEliLTZPYy1TY1V2Sk96YVdxSHg4eGxjZw?oc=5",
+          "published": "2026-11-11T06:13:00+00:00"
         },
         {
-          "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-          "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-          "source": "TechCrunch AI",
-          "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-          "published": "2026-11-10T19:03:52+00:00"
-        },
-        {
-          "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation - The Guardian",
-          "summary": "Anthropic targets valuation of up to $1.4tn in stock market flotation    The Guardian",
+          "title": "Chinas Singles Day shopping festival puts AI selling power to the test - Livemint",
+          "summary": "Chinas Singles Day shopping festival puts AI selling power to the test    Livemint",
           "source": "Google News AI",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWZNcUt6ZldxUnNyTXZySGZacWZueTYtS0JOUVZ2S3JUWENYcThEMm9CSnVXX25QTGJYZGc3UVhKNXloQ0pPdUJpbkxZQ3Q1NEdSMzJEWjB5M3UwVDJ5UjhxdllTMEhjQm41UDg1QndqbE5KWkNBZ3RoMlhHSjM5SDkyN2tmQjZjcEpyNGMxVjF1MV9vRmpJb3d4X1NibmRYd3V5TUNxMGtacGJjXzNqRURn?oc=5",
-          "published": "2026-11-10T19:02:00+00:00"
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTkd0Q2Vrb0hpdFAtWTZxeE5wWHZxRjVNdVFDQ1BUbDNmbThWdi1FekdZSzVIdlA2S3kwcHFBM3l2QlBTZ256WlRVcUhmUV9yM0VwSGxxR0RBV1NkM0Nzb3pyY2VVNmJCLW5sOGxMTGFXaHZBTWtTampUT2pqdVRyN0hyc3J6NngzcVREa1pfTDZzUU5ad3FidWlzcTh0MzlRby1wdEpadTJOQURDVDhHWlhWVXlKeDR2bVJTLU9uaHc1T1Bf0gHKAUFVX3lxTE1uQ2RobUhnV0k1cy1JU3RNUlRrbGpVMktwRktjQkxEaDg5OW9EZWhfY3NSSjVMOUtId01wbFl1R2ZSWjktblIyNGZUX0ZFRXBjb3BYa0dSLV9xUUpaaERCYkV5T09XX2gzNElzTWJZT1EtSFdsZHpqcnhlNDNnRk1aQVhwcVIwUzhvck5USkxqSGp6Q0ZhS0tDRUxOYnRCNW5NdmNDMEIyT2lnZ0VpUlFibXMyR1hyanhJS1dOS3lySTFkdjZKR1JUd2c?oc=5",
+          "published": "2026-11-11T06:09:38+00:00"
         },
         {
-          "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-          "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-          "source": "TechCrunch AI",
-          "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-          "published": "2026-11-10T18:49:52+00:00"
+          "title": "Alice Huang allegedly helped secure $7.5 billion in Nvidia AI GPU imports: Report - Business Today",
+          "summary": "Alice Huang allegedly helped secure $7.5 billion in Nvidia AI GPU imports: Report    Business Today",
+          "source": "Google News AI",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRzZXSDlXR2tFWEhzWXhiN2lFQ3p1ZzZIN0xadEhrYkNaYmprRGo2QlBZTThTQUNwTmtPS1Y3VVlSY1ZRVFBLSkNaaXp4VjB3enpUSFhmaURrOTMzVDlmQXlZNVdBMFB5NjZTWld0TUtSNzRMZUZ5YmdUOVdKSFdtREd6Q1Nobl9WSVlFVnMtYW14T1B4REU4Z3hJRWpMM29PQ0hQZm5NUG5RaEQ0bUdmV21RQjhISzlQYVJJUjhpeTRZMmc3QVgxU1VJMGhweUE1Z0wtV0tKQmVFSjNYQVd0czM4ZmJPWHFRaFNENHAxaTNXZ9IB3gFBVV95cUxPNURIa1VkT1Rzay1lM2ZRYktZQTNPRlB1ekdWZmtvOHl0VlJsSVJJdFpFQkw4NXZRZV92UndLRy1WU25XWjgydVpzdlZyTkpkeklVQU5RbnF4LWZua21Odi1MODhJZ2lZX3h2Y2dfeFh5UWVhOG04UnpsaGFZTnJfamd1MXZfQk5qWlBHWHN3U3o0cWx2UktpQk1MUXFhVGhLbjNkQVpQX3ZzcEFXRDVLNEJPa1I0R0Y4UUtSa1lhWnU3QTllLWdhU0N3OTVQamZjUkY4U05Da2NHa3k4SEE?oc=5",
+          "published": "2026-11-11T06:05:45+00:00"
+        },
+        {
+          "title": "The trust factor: why your blockchain infrastructure matters in the AI era - IT Brief Australia",
+          "summary": "The trust factor: why your blockchain infrastructure matters in the AI era    IT Brief Australia",
+          "source": "Google News AI",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUt1U1JWZWIwTTFoY01tVzIzbzlvRERiRXAwQUdQT3ZuQlZoNl9uS3pzZjRsOGd2ajdDbUhiUFVCemJoOXVzVXVScURfVjRTZ0x0OHZOYVVYNEdFUVV4TjlVbU1VczBZMk11NFh2TFEtLUlRU3lNUE4tbS1OUlJKRlBWaGpFX0ZyRXZKY2F6MGJPOXY0d2dmTjlZNjRUMEk0Tmo0Qg?oc=5",
+          "published": "2026-11-11T06:03:00+00:00"
+        },
+        {
+          "title": "Microsoft employees write open letter to company, flag concerns over AI push, job security - Firstpost",
+          "summary": "Microsoft employees write open letter to company, flag concerns over AI push, job security    Firstpost",
+          "source": "Google News AI",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYzR4NUdvN083aHRKRlM2elhjNlJXY0xJX0ZCZC02X2dEQ0hHcFZseUMzdC1RS2hKQnJlMlpiTmdDUkF0TzV5bHBlVHpTakV6XzdhTHV1MlpsakRkODg5eHNqLUVQcGd0czVQWTVHRXZreDVCaXAxTE1SY214Tnpnd2NmOENoRjFmOEpFVkIzMkxDME0wNXhmcjVIcVpZZDhKcWJKc3lqZ0hBaUM0ejV4dzYzekwwZlNNQ1FIZ3BsdElrN2hZa2VFUzlWZEVQUQ?oc=5",
+          "published": "2026-11-11T05:56:40+00:00"
         }
       ]
     },
@@ -231,74 +231,74 @@
       "name": "Business & markets",
       "stories": [
         {
-          "title": "Trade Setup For Nov 11: Nifty Bulls Find Support At 24,800; Analysts Suggest Buy-On-Dips - NDTV Profit",
-          "summary": "Trade Setup For Nov 11: Nifty Bulls Find Support At 24,800; Analysts Suggest Buy-On-Dips    NDTV Profit",
+          "title": "Sensex Today | Stock Market Live: Nifty reclaims 25,400; Sensex rallies 1,280 pts, led by auto, FMCG, financial stocks - Moneycontrol.com",
+          "summary": "Sensex Today | Stock Market Live: Nifty reclaims 25,400; Sensex rallies 1,280 pts, led by auto, FMCG, financial stocks    Moneycontrol.com",
           "source": "Google News Indian markets",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYlhoaFVxSWotZG5MNXktRzdBM0E5WkdZbHJZd0UyOVVKT05MdmZkaGl3YkI0Z25KVXM1NnFJRml5Qm1NN0cyaVlVSDFfa01TUjF1NXFVMmlQTkZIUmpMTGl1c2NVUGY4cnZsVkdUY0VLZFVHSm1PVncyN2NuTlJ2cFk3UWVyR01QQ3dUVVBEUW9sTGZXSVk1endwS21RczNiWUVzcWdha1hTLXRPV2dLcFFvdWpURDhlbnVmUjgyX3pWNWhDbllSQkln0gHSAUFVX3lxTFBXVXk2OVpITlVRX3ZoT2dWNEdNeVlfZkxHa1E5RTBFMkVhY1lvb2tsSFNjY3FnMlV0eXJRWGhMRXhQMHRadWdwN2NVVUh4ZzdYRUl5cndxcVJzaFlRaFRkbTViVWlZb2NINldlNl9fUzBhUlVLRVVLbXVuQ3l1Mkg5cmE4UXVyMk1iMXJtYTM0MVBtLU1sclhtd3J4ZHlfWUpvVnNqdE1ONG9abUdjMHRvREQwakwxYUNtbXl6LUFtVEFPLUs1dlgzZGp4NERHbDJuUQ?oc=5",
-          "published": "2026-11-10T18:10:16+00:00"
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNZEpHUTdiNTRublo5US0xTmVuOFFFWDczV0oycFBIRm9OMmRpVHo0b2Z1MHFkTl81aXZMbEdOSEV6N3hWTVlaUmM4ZzQyVzRiYjlvazUycUY2TW5EZVU1NHhqb0NUMU13OXpqd1pMLS0tbk92UXFyVFZJT1BBcXZrb1BGclItQ2hsWTd6Z2RJU2E0R2ppNWFqNkp4QThHUy1McUt2NW1HYW1DY0d0UGcyRnUycnZZcmhxWVZsUFQ3b0NhZzVMS1RUQ3RkTjFrSmhqbUVETDZZMklsMFpUMGltNGhacUVEdjNSR3dRNE8wYTFwTlU2Q0lsRG1wdG5nV0dXWDZYSlhUd3VJVTRNckVMeGI5eVFZM3diMWgyVUNqR2RiVFnSAagCQVVfeXFMUHRqUFRUR1RVRXdSdnBHbmtnV2hRRTdVWTRKOTV3bzBibDBLTTRfTzRrQ0o1Y0JnN2J4UXpKclQ3MXRXTlJUTlV5ckZ2UzFfd1VXUUtvNjJWNlc5ZjJaTnZpczZFeXltRVNRcVJUSW5Dei1zVGNwbGxpN3JzR1pzQ1hGRXpRdlVNX3g2X3daT0Q3MDg2OWNZVWFoaXZiMTJpX1lBc2xxSnJfNXd2bDNDTm5HSHE3ZGdBNG1sNEhySHpCVDAwYXJrSng4R2lnUWhzQWNCT0U4bGpXSGIzN2FqeGFkLWR0Q1ZPYkxGdGw3T2tIM25LaFY4NWpyM3RHQjZGbGIybGtUSXlic19uYVVoVTY5ZmVMTS1qME1EYWEwcEE1X0gxQVZCVDc?oc=5",
+          "published": "2026-11-11T06:51:57+00:00"
         },
         {
-          "title": "The turn of the tide: Foreign investors return, signalling longer India bet - Business Standard",
-          "summary": "The turn of the tide: Foreign investors return, signalling longer India bet    Business Standard",
+          "title": "Railway stocks on fast track! RVNL, IRFC jump up to 10% amid Sensex, Nifty rise | What's behind momentum? Key levels - Livemint",
+          "summary": "Railway stocks on fast track! RVNL, IRFC jump up to 10% amid Sensex, Nifty rise | What's behind momentum? Key levels    Livemint",
           "source": "Google News Indian markets",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPemc4bURDa1NGWXBXWUE3Wm5tclQ0WUMtZFMtQUJPclBjU0tZUUdkUW1NaFUxQUJDSUJNVGg1c3hHaVVLUHFXVUxXclJIVlV1aGJ6cllCeEtBNWJRTHJrc2xpNGlOMWcyNFlET3NjTmFpLUtjZ2RlSWh2WEdvNFNvUVFBNEJfVzJnc3BWdEFuU0lnVVNYMmEwSFUyR3RVUTVzLXJEUFZNQW5fRldMS2tZUkRWMGlibnhhbGRjZjVObEhUUTgweVJJa1FyaTFtdmVndWRaTmVOMNIB3AFBVV95cUxNLVNZRldIMWJreGw3SjFYbnR0MEM2UkJ6VXB5bk1NR09FOWZER3NaUnZubDNPOWJaUmt6SjE3MDgwTHdORExqUXFucDNxQWtkbGxHYVM3aGx6ajFydklnZkVEbGhRczhsMGxYSHZ1T29IYjhYcVRDM0dLMTZZLUVXRzhkaXFwaE1UdEF0cXZhc1owc1NySjU1RmJHS2drcGZETWxLM0hCR2VnNU9ra1ozR2xheTFHdi00bVY1aEpOTmhwNHZVaWVUVEYwSGxEamtMT09DdE83T21sWmM4?oc=5",
-          "published": "2026-11-10T17:29:29+00:00"
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRzhyNDV4akRyNFFZd1RMT1lORHJibjF1bkREaDVzMWU4dXBmQlRhNS04YWxpWHN0WVFmVnhrdUMxdXJVbXZDMzJyUVYyVlVVcWdLcWxqRXo0V1RjalZoYl9sNC1iaGFmQnVIbFJhbXlMR2FndkJwY1lYSFBmT28yYl9SVVpjU1o1Q0taOUpiR09FUFlpaHRoZ1Zpdk11TzdBWjBxQndjTFU4QjNGcUpPamtlSGFmSW4wR0phakVNbE5HYTZkcEhuSkZ5ZGdNaVFLVTlmSk1oNlNyanNjUktHQ056cHBPUFNuczg3UFhjS1RuRzVna1k0RWJPYjN1OGg2VldSZkk0RFdBd9IBjwJBVV95cUxNa3RVQVk2Tk5RUUdDLTdKc3p5dWRDUnJteXpUR0otYkxnNktxdXYzeWZ5NVFYMW8zbzhjaGdBNS0zNWFnOG1COWhqTms1VXJJcVU5REJ3Q2J4TndDZ2tmVmdESTRHMHVWUFV5T1kyS3RQRFZpY2xxSTNwbnY3dFpyT0FQY3lpODNoVml2NXpqdUVPSzBLSE0wNWpqR1FQeHBTajRXSDhnVmdTUDdNaGRiX3ZHeWZDMjEtOWlRSGhFSkVUazNJbFRlTk1vSjczZTd5anl6UmRIMTNUdU9NR1dFX2IwV3ZmdGVNQWZ0TTRlMk5BVGc0QW01TjhsV3VscUxSTUxrTlozRnhJYnJTWmhv?oc=5",
+          "published": "2026-11-11T06:47:14+00:00"
         },
         {
-          "title": "Nvidia Slips Amid CEO Probe, Microsoft Overtakes As World's 2nd-Most Valuable Firm - NDTV",
-          "summary": "Nvidia Slips Amid CEO Probe, Microsoft Overtakes As World's 2nd-Most Valuable Firm    NDTV Microsoft tops Nvidia's market cap for first time since June 2025    Reuters Nvidia CEO Jensen Huang Case LIVE Updates: Nvidia loses market cap crown to Microsoft amid Jensen Huang’s China spy scandal    The Indian Express US stocks edge lower amid tech-led rout; Nvidia drops 6%: Stock Market Live Updates    The Economic Times Nvidia falls more than 6 per cent, no longer second biggest company by market value    The New Indian Express",
-          "source": "Google News Business",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSW5FSzFnajdFXzBmRTkwSGd3bjFqS1FaX2RNMGExQzRqTkhDNDRDMW1uRDFYM2xzRDBwWHhUcm1hQWpLdWxPYVBoSk5zcWtzQ2pXS2VQTW1QWlR5UUppdnRVQ2cxUjdkYWNnNW96VkliWWJhMG5XVEtibFBWZl9JVzEzSzI1a0c2OHZOYmx2UjNIMkJhbld0M3E3WHdLemlwQ1N5U3gyTnJ4VjZDU2s2NUt4eUEtTGlld0V1SlNn?oc=5",
-          "published": "2026-11-10T17:10:14+00:00"
-        },
-        {
-          "title": "Oil Falls to Lowest Level Since August - Crude Oil Prices Today | OilPrice.com",
-          "summary": "Oil Falls to Lowest Level Since August    Crude Oil Prices Today | OilPrice.com Oil prices hit two-month lows as US downplays further Iran strikes    Reuters Brent crude dips below $90 for first time since August on Iran war de-escalation hopes    CNBC Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’    The Guardian Oil Prices: Oil prices today: Crude edges lower as Donald Trump signals pause in military action against Iran    The Times of India",
-          "source": "Google News Business",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0JmV1NVNThOU1Vzbm5KY19UY1VCdVhjX3cyNXZSTzUtRFd4R2lXTlA1M2dlMmIxb1NMUGdWa1IySzRKeHc5TWFxTUgwQVo4YzM1YTVRakRVbU5KZEZCU1JsVS00aGNzUlJwV0h1bHhYSmZ0TmYxWDlhajRvSnJybmlLSTlvc1A50gGOAUFVX3lxTE54ZkpwMmNCZGVUWDc3YURBcUZtbzNTLUxRZEpnOGl4ZGdEdWd1NzJKQUQxYlRlekZMQXhzeWcyVFoyS1BRb2VsWklWWGxrR29QNEJfa1pEclgwRTJQSGFGVXotc2h3QWRlb3pocVpUczlKWW0yaHM5bjQ5NHBZaDJUV1JPX2VDVnlnZVYweUE?oc=5",
-          "published": "2026-11-10T16:34:00+00:00"
-        },
-        {
-          "title": "Trade Setup for November 11: Top 15 things to know before the opening bell - Moneycontrol.com",
-          "summary": "Trade Setup for November 11: Top 15 things to know before the opening bell    Moneycontrol.com Sensex, Nifty 50 rise over 6% in past 5 sessions: More rally from tomorrow or profit booking will dent returns hopes?    TradingView GIFT Nifty jumps over 1 pc on easing oil prices, signals strong start for Indian markets    cfo.economictimes.indiatimes.com Indian stocks likely to open on a positive note    BusinessLine D-Street poised for positive start as GIFT Nifty signals gains    The Economic Times",
-          "source": "Google News Business",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ1VmeGJqSnRwTE5NQ1JidlNkN0hlNWdCTkc0enJFTDhBaHU0SUJoR005Qi1TdXdxRGpkb1dVOUdNWEZDTDFmMkhUbzdmQWFhQ0NpR0xlb2ZmaTNBT0Nsbk1hVTcycHNwRkVUTFFYZzM0bUY4a3NZaWpOel9zY0tJZ1pDaWpDZVo3MXdOZFh2dW5CUk1mXzNuRU9wRHZuM2FFVFA3dHpnUzhWZGlOMzhqenlHRzhrNU5WdkZ4bXJZZWVidml5aXI5NkNNQzYyTDF4VHRFU9IB2gFBVV95cUxOc2ZVclZFb3VJQ2J1TWR3TEh4NEpNRXE1MFpBOTQzRDJVanp6T1ZtT05kS0ZtWmlNVW1GUzJ2cVUteGxBNUx3Ul92YjFZRlRwNHo4WnRkbHczQTYwRHdaVDBtbTJyWE8tLU0taU9PRi1IX0c1TEg4bzdSRWh0dWpJTU9MbFVIeXlxM1hMNDBQQ1hvZHd0WVVScmZ3bGhMdko2VWxNc0pLWlR6RXBrSm85UUlmMXU3S3drNjJNUHpmYkZ3ZVVYb0FLeksteS1od3I5M3pnT3g3V0tMdw?oc=5",
-          "published": "2026-11-10T16:30:44+00:00"
-        },
-        {
-          "title": "Gold slumps after firm U.S. inflation data, hawkish comments from Fed’s Waller By Investing.com - Investing.com India",
-          "summary": "Gold slumps after firm U.S. inflation data, hawkish comments from Fed’s Waller By Investing.com    Investing.com India Gold slumps after firm U.S. inflation data, hawkish comments from Fed’s Waller    Investing.com Gold price, silver rate today: Why is gold rate down on Tuesday? Check latest bullion outlook    The Economic Times Gold prices down 2% on the day as US CPI rises more than expected    Kitco Gold hits $4,135, but silver steals the show as Diwali shuts markets    BusinessLine",
-          "source": "Google News Business",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWRmQXF5TTI2cXNnSlBmd0VaajhVVlFManBzQ19TYjEzd2NtNVhKLW1UeV9KSE9FdFR6c096LWZFSk9ad0hjcUpqSWZIQ3ROdU4yZzAybVREMXlwSzZCQlVhNjU5endCS2txY3poMEFwb0V6SGUzT3hkQklhZ1h0MnBJdzhieUJxTUE0TTRZcmY4RWtPMmlybWR1MzJ4Nzd0WmdldTZUeWhEWE50TkpCWDR2bC1jQQ?oc=5",
-          "published": "2026-11-10T16:24:04+00:00"
-        },
-        {
-          "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday - The Economic Times",
-          "summary": "Ahead of Market: 10 things that will decide stock market action on Wednesday    The Economic Times",
+          "title": "Sensex Surges 1,246 Points, Nifty 50 Rises 333 Points as PSU Banks Lead Market Rally - Dalal Street Investment Journal",
+          "summary": "Sensex Surges 1,246 Points, Nifty 50 Rises 333 Points as PSU Banks Lead Market Rally    Dalal Street Investment Journal",
           "source": "Google News Indian markets",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeEQ4OVQ1MTM5Vy16eGhvUF9YZlh5NHMzSWN1MXVkWnZwbGJUQVBmQklGR3VpdnVTeTBWa3Jhay1jbGJldF9Xd1lxNHU0RF9fSGV2RUpETnQ5TDdkcXp4SGlkZW52YlBnUEJPUEpKdmw1UThRWG5PeENWTDB4UVY0Ty1tRUNIaWVRRVJfaGIta2FGc0liZnBFU0ZHam1RT0dVMk5MNlN3a2dfRU9KNlIxWjlDcVdLaEFCUTQ3Nm01YkNIVmlHMEphYW5VTE04T0QzZEtSUkwxM3o2c2U5R2l4WTh2Y9IB6AFBVV95cUxNNklaVHZicXk5ekJ5TU1lTHpBNTRaY2hEUzFyU3N4MVN0OF9SN25WM0xEckNjZ0pSYlZQcXNRWTdUajU5Q3dKMlZVQmhqSkp1M3ltVENhN28wVEF5bE1IbTRxajllaXBlUlJXQUtfcU1ZVWtia0NrSTQtMmU5Q0FvRElnYmFQamc1bWQ1YXdwejVpZGNUbUZ4TEpnRk0yV29qNmNxcF9aYWxRRTBUa1NyTWJ4WkJyaGJESjBHakc2Z0FHaWNET1RXblYycFZKUHh2SkFMNWt2TUVQYW0yZkRQZFQ0R3h2dDVn?oc=5",
-          "published": "2026-11-10T16:01:59+00:00"
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU2JWYkRtVzhQVU1pazdLc2x2eFVIbFZudlpmN09nSUU3a1ZuZnZfcDJ1WklOOE02ZTVSQzRYOG96TWM5R01yb2JjSUtFYXVUeVA2LVFwbmN3OUc2WlNpRjVQN3MxZjNCMU84bDhUcHZiaFN2bFhUdDZSTW9vWDlORnJiVW9WZ2JSbjlTTXNfUkFXMGwtM1R6NGpjMTkyQzAxMGhMVlB4UUNneGo4N3Y1Wm52WndTenRKaUFpSjkwRVQ4anJWaGYtd3FGWQ?oc=5",
+          "published": "2026-11-11T06:44:12+00:00"
         },
         {
-          "title": "IBM to End Immigration Sponsorship for Roles in Biggest Unit - Bloomberg.com",
-          "summary": "IBM to End Immigration Sponsorship for Roles in Biggest Unit    Bloomberg.com IBM to end visa, green card sponsorship for most roles in its Consulting arm    Reuters IBM ending visa sponsorship for most roles in IBM Consulting: What will happen to employees?    The Times of India IBM ends visa sponsorship for consulting roles    Investing.com IBM to End Immigration Sponsorship for Most Roles in Consulting Division    marketscreener.com",
-          "source": "Google News Business",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWkNVZ2FFbXVhdXZoalpCU2hEY3QwSEtHRVUwTzF3RkN1S0tTTXpyb1J6OUVyb1cxTnVEbW13ck8tanhTVklnNTJtZUVSMmFHajRjRVlYZms2RURjd0FBTlc2Smt2MEpLN2NMUGlrUlFfVWZrb0RsWlZWaEdPV2FrZmVCelVnM1pFZXpTM05DNEJJSkJ1NWFSUlRrRmo0aHNDeGxiZzY3czBnWDNFQVdhaQ?oc=5",
-          "published": "2026-11-10T15:30:32+00:00"
+          "title": "Stock Market Live Updates: Sensex soars 1,100 pts, Nifty above 25,300; bank, auto stocks lead charge - The Economic Times",
+          "summary": "Stock Market Live Updates: Sensex soars 1,100 pts, Nifty above 25,300; bank, auto stocks lead charge    The Economic Times",
+          "source": "Google News Indian markets",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWnFSdVRITHhUNUJJRFpLWWkzRVRLS2Q2TGliZmFGWFRsaTg0bFpQMTNQc3NkUkFJWU9kRlRndkpXUXJiNWNvTnRSNFphbnRtNmsyUUVNYWtqMHNJc3R6eGljZXhIOXE3dk1pckRmaWxJUWZDRDZ0djdHUmdLMUx3ZklRVUxNaFM5cWRXQ0d4YjdMQ082bk9CZEs0TEoxbGlWMlh5S2hTUUF2QmR5V19jUF9HS2gyR281Y3BXNTRrYjk1d2tjdUZUWHo5WExZMVRmRzdpSEd4RWtBMnY4b1FqbjhrZkZ0c1NIYTFYb205ZS1UeHVzeUZUQ2RQcjdwblhybjUwaVVtdXRHUXBnRnfSAZMCQVVfeXFMTVB3Z3hCNi1CclRkb0ZtSkN6bmVvekY2cTh5RnR0VnJXM2Jub0JodWlNbldIenM4TjBESklUQW82Ri1nbmhvYlNKcG1JVkZ6bmZyVEJQUDZKeVFwdGFlUDZEUTNzS1Q5TU1IenVkbThLTmo4OUJuVHpibHJIZzloTnpsU3NRVjZTOE96aWhyYjZJclBncEFZcHVBQVZBR3hJZTIweVNPN1luNXFkMnRyV0lRRERNdkVoOGtnLWpzNVNRU2ZQR2h0by1YRnF4dG9PWTA1R291T1l6MTU0X182Rm9UUF9XR3pJbDJLeTNzY0dsLXExcjdYd0pTRDNUeDM2MUJLU1VjRkFwVWJMVHNoWTRwLUE?oc=5",
+          "published": "2026-11-11T06:43:17+00:00"
         },
         {
-          "title": "Natural Gas Holds Above Five-Year Average as Winter Nears - FXEmpire",
-          "summary": "Natural Gas Holds Above Five-Year Average as Winter Nears    FXEmpire Natural Gas Futures Rally on 21 Bcf/d LNG Feedgas, Late Week Cold Shot    Natural Gas Intelligence Natural Gas Climbs On Cooler Weather, Record LNG Flows And Lower Output Ahead By Kedia Advisory    Investing.com India 🔴Chart of the Day: NATGAS: Are we in for a weather-driven short squeeze?    XTB.com Natural gas and oil prices rise on bullish weat...    Pluang",
-          "source": "Google News Business",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekZzbWV0dzVLX3RHNUpFcVBuQXlKZHhKY0w2ekVfZU14MVQyTFBETFBJNHNmU1h6TTFtckYtRWstejM4b3VhcDdsM3Q3a2xFR2RaSnMtZTdDM2JEc1dBeGtSeVhPNFpaRnh4MDl1blE4MWRRR2lRODZCTUhoRk1FQk5wX3FoUmtuQmludFB3ck1oaDVtOFM5SDZDX09aeFdZUkhfSUg2c2FHSjFE?oc=5",
-          "published": "2026-11-10T15:27:26+00:00"
+          "title": "Sensex, Nifty hit eight-month high as foreign investors return - Livemint",
+          "summary": "Sensex, Nifty hit eight-month high as foreign investors return    Livemint",
+          "source": "Google News Indian markets",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObnJZMmU0enhZbXFzSHQtenNrYWY5TjZaZmF2czJVVndOOHhmRmtBOUVKMFZDUmNWNG1fR0lPaXRyek1mYURDVlg4OFlNSFczUW1DSjhRZGNfNEVzYVIxY2JfRU9ScEtkYWxuVFNEVUJwREtoTk13Yk53T1JaNU5ON2NKaTNUNnd3VjRYVUNRanBydmNwd0VScm1IUjVfUDE5YmlzbVZNeWtvY0F1Qk83eHFoTTFnUnJYY2FXZV8wWjBVcWh5VEpuTWp1b1Q2MFNob3hpZF8tc3pfMmxt0gHiAUFVX3lxTFBrMzJZRHl3MTRqZG85Szk2ZmNwc1c5cTN3NTJxWml3N2dTSUttVUt4Wk90VEotYVpDYmlrOW81UUZUTlNMMU82bmlrT0FWbTZQaXhVeEpmWFVSdzlvYVViZWViSWlXUWl1dEh0NEZLUjRreDBnVDI3MlNmdnJiSHpRUnRyNm43SWxmRm5lVndZTllYTkExNUZsWWhhT3hid3ZidjNFM19CT0dMWGlFOUo5NzlzTU9ObTVGUmVSeHY1S1BBT1ZjTzVvOWRmWG5hX2tzRzlSeGVjcWEyUUJuZFRlcnc?oc=5",
+          "published": "2026-11-11T06:36:20+00:00"
         },
         {
-          "title": "Q2 Results Live: Kalyan Jewellers Profit Surges 64% On One-Time Gain, Cochin Shipyard Profit Tumbles 50%, MRF Profit Slips 28% - NDTV Profit",
-          "summary": "Q2 Results Live: Kalyan Jewellers Profit Surges 64% On One-Time Gain, Cochin Shipyard Profit Tumbles 50%, MRF Profit Slips 28%    NDTV Profit Kalyan Jewellers Q2 Results: Net profit jumps 64% YoY to Rs 427 crore, revenue rises 31%    The Economic Times Q2 Results Today Highlights: Cochin Shipyard Q2 profit falls 53%, MRF PAT down 28%, Matrimony profit zooms, Kalyan Jewellers, Avanti Feeds, Titagarh Rail Systems, MMTC to announce Q2 results    BusinessLine Ola, GRSE, Cochin Shipyard, Kalyan Jewellers among 1,270 companies set to report earnings this week    Business Today Kalyan Jewellers Q2 Net Profit Jumps 64% to Rs 427 Cr    Rediff MoneyWiz",
-          "source": "Google News Business",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbmdqRi1Xc1dUSUt2a3pSVVdtOVRHX2ZydWRibWlVZlA0cjlsak1IRldxQjFpQkc5SnBOak1KbEVyUWVGdmFVZVJ4NVFmUHgta1QzeUdFNGlrcUUydGVWeXJsZm5pdXRBbUwyQTlkQW9ldHh2YUNxVTl6S2NEY0Q0d2VWeXoyS0xaNlIwYWZzZFVKX2FPX2hIY2Jvd2ROcFIzUGJxd2ZCVWh6aHJOQ0ZFRU5ObW9hVGxsLUxYOEkzVFRva183Q000TUdEdnNUYXNCSjhZaHZleFZMV2RCTjVKSU44QUlBcFk3ald2WVJKV0RsWGtJ0gH8AUFVX3lxTE55RDgzV282ZGRmZEpUZjJEZF9XV1p3Y1ZOMmttM3g5WjlpU2pocmluRmZ2cUFRakhIWl9tWE9RcHQ5MzdUTlc1WlcyR1dhNGFXU241YXNQRGNzN1lqZVdjcXRsTlFtX0psNXhsVURsUGZEQ20tZk5NeGhqbWx3SnVteVhsNWh0bGNwWXBvRWJfWlVZempiSVZBRVhLcVdqWmREb3N2NU9lell6NjR3Y0VBaGxnbTB0N2RrbEVVSTQ2LTZDdGRqWmZ1QVpBeW9PdHViLWRMZUM3VDhZZGZuQmltZXdMTEczdklDVndCbWxKVmZfWlVmWUR5MjdoQg?oc=5",
-          "published": "2026-11-10T14:34:56+00:00"
+          "title": "Sensex zooms 1,100 pts, Nifty crosses 25,300 mark on positive global cues - - IndiaIPO",
+          "summary": "Sensex zooms 1,100 pts, Nifty crosses 25,300 mark on positive global cues -    IndiaIPO",
+          "source": "Google News Indian markets",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcFpkUmRFQUhOTnJFNmxSQ0UyaHBJVlpOaWNucEF5dnZCT2UtWUVIVHM4RVpmeExGdldNbXRGLUpBMGtHbUl5amh4MzRqYjZFcTZmTlMzMGRmZVI2Vjd3LVVzVVVNX01SRXl0eDhtUlBqY0ItYzhCR0pycEplNno0aGg4UGd4SWZYR0VLZW9yN3JINU9tRmFhZEhBSTh6eTRveWJtZ0dGYVQxUQ?oc=5",
+          "published": "2026-11-11T06:36:19+00:00"
+        },
+        {
+          "title": "Stock Market Today Live, Nov 11: Sensex up 1.5%, Nifty crosses 25,360 on record FII inflows; IndiGo, M&M lead gainers - BusinessLine",
+          "summary": "Stock Market Today Live, Nov 11: Sensex up 1.5%, Nifty crosses 25,360 on record FII inflows; IndiGo, M&M lead gainers    BusinessLine",
+          "source": "Google News Indian markets",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM2ZqNzVndDF6RUQ4RUUwa0NsT0NpV2wzM29wRUgxc0wzbWtuMlhHaXMzNHBYcUYwcFo2azA0SHFSd09nS1RTWXE1YzR1bGt5Mlh2UGtoQ3ZtcGF6SGFYMDYyT3g2ZWN6c1I5M2pPcXM2WElDT1BPYlhIWGVuVnVydzJtMzJZS1BFZkt6enNnZUh2cWtSNUdMNl9ENFBDTFZsVllWVTM4b29Nc0s3dXMtbjlRano1TzB5T3Yxb0gzTmRHOTlJa3g00gHOAUFVX3lxTE0yeFp5QWxESURMbnQ4LWFGNUFCMFpSQ3NGTHk3TjYxOFZiMVZscjl0Q3o3RXhtZ1FyckMyUGlQTU9hc1VSNXBRdWFoTmZuSzhJaVdwamVWbDR2NlNCeENHM1FYakRHRndjQjVaTGl0TkR3eE0xdUdJVUp1VTgyWTJXd1hSVVFHMVlrWjVDNzRaTWpWeUZmYlRILVBkM0p1RUoxeEtnRTdNMXBKaXg1UEpsb3QzVFB6NU4wZEJwbDU1VzR5T25TV1p0dWpPSHpn?oc=5",
+          "published": "2026-11-11T06:35:06+00:00"
+        },
+        {
+          "title": "Stock Market Today Live Updates: Sensex jumps over 1,200 points, Nifty50 adds 1% to rise above 25,300 - The Times of India",
+          "summary": "Stock Market Today Live Updates: Sensex jumps over 1,200 points, Nifty50 adds 1% to rise above 25,300    The Times of India",
+          "source": "Google News Indian markets",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOUFBvMUFwMUpmZW9OdXJEQWZYbmFnSGM2V25wOS02bEx3bjVDTE1QMGNnUjJqSlZEa3lRbUplVjk0Y2c5SVlsYjU3RmU4d0lOSm5UbkZLSzI3c0tOOFdLS09XU0FjNW1faF9ZelF6SEZKaHdRYTJ6ZjNUUXFnQ1ZFUHFiRTY5TWZ0eGhSR1V4OEtQRFNpeFJYeWJhSGlRT2FFRlllSUZCUnJ2TGkwTkFaNFI4eXh5N1BJenlKYlFkZzhiemZPbUZDcEhLbG5BSC1maDc3ZzR3S3g0VDNNUWh0T183eElRajQ1blhjRWtXTnFwUTZMOFd4RWdlbDFWVUREVXA4VGxZTUxxdWRaNzhQRGtZaGVlYXRhVjlwN01Nb0ZPYU1lQ2swUmMtLTZ3YWJpU3hWNFd30gG7AkFVX3lxTE1DX1U3cEdMUl8zYURKX3AxM3g4bVFmeTNuOWEtUFg0VzRZeG00cUY4OTQyYXdRS3QteFQxZnRXa2ZpbXFHSU1oaHlFd1g5cDJ1RnNjbjV0dGVKRnFuWlBLVDF0UzhpaDRrcHQyOUR3UmNHb1pGZDQzZEQxOW1qWkZxXzY1OWFoVmEzNG9wOUliMGtuQVN5ZTlkbWxwMGhHbWZDdHJIVktsbnNiSzkwNnItek55NDY1YWFwQk9zeVNpX2lMSjdZSWtnVTdacjhSZkplMHNnTDlVaEZGb2lsWTl4bnZYMDBzRXFfVHgya0lyVmhlbkJjM1otTE9iblZNWWFSY1NQallWZk12ajkwN2tKYll2WVBCM3F1R0pENWhkeUtPY2tEdnVUUUFkbmUxeHpXRjBqY1dZMkM1UQ?oc=5",
+          "published": "2026-11-11T06:30:55+00:00"
+        },
+        {
+          "title": "From 13% Down To Near Flat: How Nifty And Sensex Recovered From War-Time Losses - NDTV Profit",
+          "summary": "From 13% Down To Near Flat: How Nifty And Sensex Recovered From War-Time Losses    NDTV Profit",
+          "source": "Google News Indian markets",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOalZjQi1EQ3BMV1FFdlRrSG5RWXNPU0ZFMWRQdXFIRTJaN0tpZXl4aFI2ZElJRnMzSDFNa2pDeGRnUFUwS25NeGEzYTYwVlNtaFJNVW9mV0xaZXBtNGptM0NIZmdNTmcybEQ2UzBkZXMxV1RNTGNRWFZhbWI0bjBmYUF3ZGoyNHhVaDRyejV2RjY0M1A3Ml91eTRPOWxYTjIzNGcyakFMeUJER1JjTFZXUVJYOWZaemJVb0ZENlZuVEozSlBEakItaUtUSnoza3UxN3BnZUNOTllybGFXUmtPdTNKbE43NnEzTms2NkZuenVLRDNGYk45NloyQ3c3QXI0OEd0YlhYRE9LX2vSAZMCQVVfeXFMTk5pa21zZm8zb3dwY0YxRkVpOE9ZWVNKSHNsMVUwZnlDOVEwbEtqTVlIY1RpVHdHMk5wd1RrYWxVUWRMVVQxSzFzMWFqVXhRLUVRbndTUktRNno4b0VnV0NiQ3BfenAzUUYxS1R4SzBnZzRZcUtNU2J1dEt2ZkNVMGZGeHp0Y3FyNF9SVGhrazh4Q3BfaW02U0huVkZGellzUmNVYVFkM2dyUXd0RkZ5Q1pRMmJSZ1U0Q0VBY25YSW9GeERRcWZybEFHYWxQV0ZXT0JmUTh2Qk9jRHo4dmc4OWpGMVpkM1o1S3lJUGg1UFl0ZUpTdG9oZ3pQcHNuRmZTdkVpVjFXSnJCekE5RlltVlQyVFk?oc=5",
+          "published": "2026-11-11T06:28:44+00:00"
+        },
+        {
+          "title": "Sensex, Nifty Surge As FIIs Boost Indian Equities Amid Positive Q2 Results - ETV Bharat",
+          "summary": "Sensex, Nifty Surge As FIIs Boost Indian Equities Amid Positive Q2 Results    ETV Bharat",
+          "source": "Google News Indian markets",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRkxhekpFNDdzOGdyWS1adWRuaXVCZEczQ25ocHlHOENzNGltRkR3Y0FpeERtSGJHeFhfTnZoVFhuZzNmT1VoRXVCUkZHVHpfYXhXSFFpSlFWbGo3Z0JwT3dRcmVrN0dmdVc5OXhLckpVeFlpeFN3Vmx1a0dycFpTNWRGeVRzSElyZ1JhcGdiOGUtaEZobXZ1RlpJZ0FVQ1JCcFl3ZEFDb0RiUG1MdW54eDdheWUxLUpROXR3eWZZaWlkdzhG0gHKAUFVX3lxTFA2MGxpQkRnR2NDVThJZXZFNzgwNm9kZHB4ZVpxLURWTHhwNDJadTl0dEsySVdTenJxYW9lVUlWRW1CLUR6WjFLd21FZ0VpTVpiN3FTQkFWalg4YVZ2S1M0Tkw4WDhwdkdHckxoczlpNTV5UUpHYTNLbENBNUdwVE41SjhvOHNhZmlxZUJRQzBudXpudEo5azl3RWlTWXBLTEdoc29OREo2QS1BSlM1T1FMRENubkRrbUJoZEtMZWxxQVRvazZxXzRZdXc?oc=5",
+          "published": "2026-11-11T06:26:37+00:00"
         }
       ]
     },
@@ -306,11 +306,11 @@
       "name": "Politics",
       "stories": [
         {
-          "title": "Netanyahu's Bloc Falls Short of Majority as Israel's New Parliament Convenes - www.nationpathindia.com",
-          "summary": "Netanyahu's Bloc Falls Short of Majority as Israel's New Parliament Convenes    www.nationpathindia.com",
+          "title": "Eisenkot Takes On Netanyahu, Moves To Undo His Policies As New Israel Parliament Meets - Outlook India",
+          "summary": "Eisenkot Takes On Netanyahu, Moves To Undo His Policies As New Israel Parliament Meets    Outlook India",
           "source": "Google News Indian politics",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlB1UlRHWnBEdkRyYVFzNzVMMDN3ektSc2lob2lubko0RVR2eTNZTlkyWnNEQThhRXRZMGNnQUZEQV9iMVdEUWp4aVVWZDF4Z3Jmb29ZQjE2UUFsaFRjRTN1NWU3Tk0zRlNfeGM2S2QxV3p1WFZGWDFSazBIU2UzWXVncmIxYjNsY0hKRUdSM0FicWg2M3MxNlA3MG0xVjhv?oc=5",
-          "published": "2026-11-10T16:16:44+00:00"
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXRJT0huTTYzQ3o4UG1HMG9IelhldE1POVYzaEFLSG8wREtEaW4zOE1uWEVYT1FTNWpkZGgzNFFkcTFUQjNMWmt1eHhsMTdlU19XZ2tCWk5ReWZBS00wS1FOa0cwVjFHWEZfeGJlMkZkczR0cVRxOE5jSkZPMG0wMW1RaUFJREtMcGJTc0lrUE9KWV9USldCa1ZRbzVhOG45TU1VdUhqa2I4aDdXMmthR2FPMDnSAcIBQVVfeXFMTWQzMEFtX2w3ZXpMdktjSTFsdnUzemtBaXpQWkZpU211NFdkWktxUWxNLXI4ck1CTFp3Q2FBaXZsZ3NMR2JoQ3RINEZyVWdXbFliWkp1bzd3dVZSUnVhV3JnS293bXNKV25SdXNzVjd1WDdVUW01NzhOb3JqOHA0M1pQc0lmQmk5RU9NSENBc2J1TDUyRFA2RnlBUkFqT1Z3ZjhvTWNWNFhGVHhudl9nWTFDNnJiSFdkSko0X2stQ0tLVHc?oc=5",
+          "published": "2026-11-11T02:20:00+00:00"
         },
         {
           "title": "Functions of Parliament in India, Legislative, Financial - Vajiram & Ravi",
@@ -381,74 +381,74 @@
       "name": "Pune local news",
       "stories": [
         {
-          "title": "PMPML launches 11 feeder bus services to improve connectivity to Pune Metro stations - Prop News Time",
-          "summary": "PMPML launches 11 feeder bus services to improve connectivity to Pune Metro stations    Prop News Time",
+          "title": "'Let Us Go': Passengers Plead as Two Men Stop ST Bus and Threaten Them on Pune-Nashik Highway; Video Goes Viral - Asianet Newsable",
+          "summary": "'Let Us Go': Passengers Plead as Two Men Stop ST Bus and Threaten Them on Pune-Nashik Highway; Video Goes Viral    Asianet Newsable",
           "source": "Google News Pune",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQTcxTU52eHl1RmNrcE5haW9uampnVnFwc2FwWjM2SHRkTkZnclNhVDdXRmg5WHpqS2tLSmNTaUpPem54eElFamRrSDJPNjhMT19OVTFzWGlzTHZpRzZkWmJfLXpFOTU2Vkt4WDh2eHlnR2FUN3o5ajhteUdmN3NvQlNiTFgzNkJSVE9NVDllbkw2OUZPT1JvQlVBMER3bGhlZmNqd3VFcGpVMkNVYlBScTdoS1BaRndiaF9aYkpWTEc0QmFjQ1VzMHR2VFhFaU5VdUE?oc=5",
-          "published": "2026-11-10T17:45:30+00:00"
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNX194MUQ3SWM3bHVXQ1BYMjZnc1ZhVXhDN1Vab2Q2NlJVZjdJdGJYbGt3bW9oMFpXejJDanpGNEx1MkhTNFJFbV9aX3h1eGRtRlVlaHNQQXlSMmg5a2tBMGZIUFJzajFVTlQtWk1UY0tUalNTcDZyTmZ3V3VORGJCOUstdG4xRUhqZlFIWGRaUjhaNFRVdVBZUTRrN3RINWl5WU9RNnI0NzVSaGxMQnpxb2RIZVN2X3Z4eXRqVWJRVXpkd0VtNHZYT3pVZk5uNVJhSU5nMi1FSUxJY0ZtdzBjWmdKZjl3clNWemF2UFJtcURNS3RZN1Z4MUVRY9IBgAJBVV95cUxOYnJybnVuWGp5Q2xhTlVvXzUxd3ctSGdPYnUyMGdHQlZhVXZxZ0l4X0NKNnp1R3h4SGpwc3ZaME4tUlBjc2VyVHNXUmRCSUpRUlZHeGFlMmtSSlZXSWxIaThDWnllRjV6ZFBKNlhtWGczaGw0VTEwZTVGZVliMC13WDVCNnREZmZNeE95bmZNNGxrdUk4SnpZaVpCMkN0Z1gxbUNNSzFpbWFCS3V3Y19PQmkyQkxJNElubmo3MmFndzNKb3A1MGt0VlVBMDBxYnNoSzJCMkJBUWdUYk9pNHhkVG44T1J4LWpHZG8zQUhfY1dZTUlvY1hWY0xLVXo0Vmpv?oc=5",
+          "published": "2026-11-11T06:15:17+00:00"
         },
         {
-          "title": "UPL staff costs fall 15% as roles shift to Pune, Mauritius hubs - Outsource Accelerator",
-          "summary": "UPL staff costs fall 15% as roles shift to Pune, Mauritius hubs    Outsource Accelerator",
+          "title": "‘Speaking English Is A Cheat Code’: Pune Man Shares Bank Experience On Reddit, Users React - News18",
+          "summary": "‘Speaking English Is A Cheat Code’: Pune Man Shares Bank Experience On Reddit, Users React    News18",
           "source": "Google News Pune",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsMjFVNGYzQ0RacElIZnROTG0zX0pFWGVVSmt4b1Ita0J4MTE1WTNTanBYUzBFT1lsQTVDUHRNRVYzbnd6c3UweWRqNE5rQlRHLXo0U1dfYmNkRVVBVkZvZ0JadE9SV3FlMVd1UTNR?oc=5",
-          "published": "2026-11-10T17:30:00+00:00"
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZll1U052MjBkbmotYU5zMExxQTJGS3l0XzM4SFlhZFNLbFZBdDQ2MHgxSHp3TXNhN2c1NGJvZXR5Q011eGQ5N2xvNkdibW5WUkNYYVlrYlhGYngyYVRoMlRoOWZZTTBHSFFBNnA3Uk51Z0FYZWtldDhtcGpzQklvNkVBdnduLU80TGxhQWx3aUFMLWFaSzFhbmRMd2pzd1dUeEN6OEcwaXR3djdZRi1fMVpqRGJieW8xOGpIczR0QU9LLXdlT2s0b3BmdG9Ud3fSAdQBQVVfeXFMTzBuR2dTWThtYjFMd1RFdk45dFdxRS1zNTc3bWI3c01iRFIyMVNBZVN1TEliaWYtWFV2dUJGXzRFZmRBanMyTkRzT044NHkzd2tZX1hPNTBORlZjT0xZN19aam1lbWJtbXlKY05tc2M1Yk1qaE16RVlkaFNZQlhaZHZyaFVDNDJaNllGelgxUGxGSHhvdmhhYTlnd1pKMXdVVVBpdUFIbTVNVVlpYV9WLXhnMjBlYzVHeWt0Ti1ndDFPZWpIZ210YkRSR2QyOWNpeGhoVU4?oc=5",
+          "published": "2026-11-11T06:02:55+00:00"
         },
         {
-          "title": "The Souled Store Opens 105th Outlet in Pune - Indian Retailer",
-          "summary": "The Souled Store Opens 105th Outlet in Pune    Indian Retailer",
+          "title": "Mumbai Pune Expressway Latest News, Updates in Hindi | मुंबई-पुणे एक्सप्रेसवे के समाचार और अपडेट - AajTak",
+          "summary": "Mumbai Pune Expressway Latest News, Updates in Hindi | मुंबई-पुणे एक्सप्रेसवे के समाचार और अपडेट    AajTak",
           "source": "Google News Pune",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlRNMzhSWFBuN2RJSk5QQUhWa2ZCd1ExRkg2QjdudlVnTVRqSmtHdFFsUy1jeFlUeU1IQzhmSzVGcGJ6QlJSS3ZXdnlscHZDYzBjLWVZUjhDeUV1Tjh6U3o5QWNueXdkR1BsOXlhVm13YkVaaUhuX3NybVdJVnJmc3hNalhMbHlSQ3VhT090YXlJaENJaXdONQ?oc=5",
-          "published": "2026-11-10T12:58:48+00:00"
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xRFFxeDZyR0tqamQ3RWp0a0FWNGZfN0x2WldRendVMjN3aVJVQ3Jxb2NEYVlBdkQwU192eV9NaWV3RjE4YUllc3pfU01mc0d1bTBESHB4RXRUMTBLRi1N?oc=5",
+          "published": "2026-11-11T05:42:48+00:00"
         },
         {
-          "title": "Lexus India Opens New Guest Experience Centre In Pune, Expands Maharashtra Presence - BW Auto World",
-          "summary": "Lexus India Opens New Guest Experience Centre In Pune, Expands Maharashtra Presence    BW Auto World",
+          "title": "Beghou Expands Pune Office, Strengthening Data, Analytics, and AI Capabilities - The Tribune",
+          "summary": "Beghou Expands Pune Office, Strengthening Data, Analytics, and AI Capabilities    The Tribune",
           "source": "Google News Pune",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ0o4WHpYUDR0WEQ4YWs2MkFqZnJ1WkVDUl9xX3JsYWZYanhXd0dRQkdkdzhxUVRnR1p1bGNhUk5LcTZIb3JYZ0p0cVQ0VFp1Vkt3VVBBVzVMOVNuOC1fY0xncFExalFpaXk4UVgxUVY0ejlnQVYwWWtsYkJkYzZMQ2t4NVh1YmpENzl3OTc3MFpWdVlNaDVfcldwVTd2SkRIY0NjMFhIYldqRzBoS2NSaHRaQmx6aE95MUJjbnN3?oc=5",
-          "published": "2026-11-10T12:30:35+00:00"
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeVljYVF3Yi1NTFZHeDhlN3N5bkFjNXJ2Q1l0NlpXbTBkWDdhLXRMSEFLdlM0WjQ2dk9BeXpPc1U0OHJ0OUVNOGFkNHZESkI5QnJLVDFyVlB3RDEwR3RMVVAtU3I0Vnd3dzV1RGo2N1hZNmlQMXZ5Um55aEE1enZSeFVmdl83S3M1SWktdlhhMkZPR1k3SmZfTXlhaDhBaVZBaF9CSDBlM3BndGZkcnlsZG4ySDNqMVZvTVJV0gG_AUFVX3lxTE1SQ3ZZQk5mZzVkdXAycEVGYlRhcWdCRF8tVnVUZ0VuVFhBLTVudGdkcXFRenBLdjFYSlFZQ1ZNbTdjRmh5OTZmUHBCWkt5bU5WaEg3cWtRQ2xxazVlRGtwR3d4VF9tbzRSc28yOHo1MFZiZmhZNVpfeW5tT1U4ZUtiQUVJTmJBU1I0SHVyZGJBUmR1T2g2cEt6V3RaX0xONnFPNlpKVTg1U1oyX3dyM2Q3ZnIxZXdkZDJnaUl0RzhR?oc=5",
+          "published": "2026-11-11T05:17:35+00:00"
         },
         {
-          "title": "Pune Airport New Rules: Rs 500 Fine for Vehicles Staying Over 15 Minutes - IndianEagle",
-          "summary": "Pune Airport New Rules: Rs 500 Fine for Vehicles Staying Over 15 Minutes    IndianEagle",
+          "title": "Pune: FDA Raids Two Karachi Sweets Units in Wanowrie, Destroys 93 kg of Sweets - Pune Mirror",
+          "summary": "Pune: FDA Raids Two Karachi Sweets Units in Wanowrie, Destroys 93 kg of Sweets    Pune Mirror",
           "source": "Google News Pune",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdnpGa3VZZjdiZGJsY1N4SnZlaVF3YlhTNjRKTDhWN08zRTVwV2lfbGpTTlZ3WWp0ZUxQbWc3M3V1YnpiZGVweVdOQ0lJTEdkWGRXRFdiVFdhT1VMM0ZXcGQweG9VcDFtU1QxMjVIS3hKaHRvRHRIcEhEbzVYSE9HOEFrMU1FOUttQlhGaFVMTm1vU2M?oc=5",
-          "published": "2026-11-10T12:24:45+00:00"
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUEhvV21RWGI5TWFidVRyeWFiX3BDYjd0OVNzY0JJTEVoWGsyazZyemc0elY2WEFrSndWYWNCNkxZbHJ5dkppeEUyQVdBUmZmTzhEOTctS2RveDUxUWd5WWtOLWRrYWt1RGdnNkxSSjRIYy1VcGFVakZIdDR2clZ3anFOZXJQWHpsNkRNN1Jpb3hyOVRfVWduRHp2SkUtMVVSOU1BLW1xdVY?oc=5",
+          "published": "2026-11-11T04:49:56+00:00"
         },
         {
-          "title": "Two dead, teenage girl battles for life after speeding car hits bike in Maharashtra's Pune - Mid-Day",
-          "summary": "Two dead, teenage girl battles for life after speeding car hits bike in Maharashtra's Pune    Mid-Day",
+          "title": "Beghou Expands Pune Office, Strengthening Data, Analytics, and AI Capabilities - Yahoo Finance",
+          "summary": "Beghou Expands Pune Office, Strengthening Data, Analytics, and AI Capabilities    Yahoo Finance",
           "source": "Google News Pune",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaVdHQkJTVHJOZUdXTDBQaUdSdl82X3FWYXdjN3pjbzZhOTNQQUJNTzBHS0ZuUXU1d2FfZWE4MmtRalBxTFdQcWhwNGRzZWowbGtTdDFkSi1ZQTA5VEVkeWlvc0kwb1B2LXhhOVdiV2dGNHhvRURUU1MwejB1TmhxckJMN3hrVC1YZTdYZ0VWT2lKRnV6WWpzNVg0eDltaHozS0g1X1BxQzlDcnptRVNJQjJqVzd0SV8tM2MxTkI5RzBtVTJZYzl1eTI1S1BjeWlXWnR2NUFBZE42OFMyUW5DZ1RTYTNOWjE5ZUpoSEREaXZnYnJzU1duOHlRZm1JOEVYMUw1OVdR?oc=5",
-          "published": "2026-11-10T12:22:00+00:00"
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQekxhRXFQWmNweDlRVzE5OXRMUUxWNVBDek44SjdQWXVUWWtvc3dJT0NsMzdTUkYyWHpaN0dnb1Q3eGc5Q1B6bldEaW11VmozQzdxLXFOdGM2QVFmZG9EZFh4ck1RZVBXMDFrV2hfNWFpVW5nUUtlS09BMjVIZ29tNk1MTms1LVV1OEp6bG1LZGhQWFE2UkRuOW4xc2gwYXlLXzV2dmNSNA?oc=5",
+          "published": "2026-11-11T04:30:00+00:00"
         },
         {
-          "title": "Alstom’s Metropolis Trains Begin Passenger Operations On Pune Metro Line 3 - BW Auto World",
-          "summary": "Alstom’s Metropolis Trains Begin Passenger Operations On Pune Metro Line 3    BW Auto World",
+          "title": "Meet Pratiksha Tondwalkar: How Pune woman went from cleaning SBI office for ₹60–65 a month to becoming AGM - Livemint",
+          "summary": "Meet Pratiksha Tondwalkar: How Pune woman went from cleaning SBI office for ₹60–65 a month to becoming AGM    Livemint",
           "source": "Google News Pune",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdDVSNFNzcVlhdlB5R3lsUTN6RUhpT3ZyRHI4LXVFdDRtc1VvVDRHVE40NkF2ZzdZMU1MNlJqTGtEWXpLWWYxdjZKdGQ2WHlzTlhZV3RHM2dZdHZMQjJHdk1CcnhwaU1mRF8zajRzeEthdmxkUGpQMG9UcHNJMkQxcHVCMUM3ZFN0bFR1VE9jVm5XQWZKNmNXZGtxTHh3djFPb25UYzlMcUQzZ2xOT3hHUy1Kaw?oc=5",
-          "published": "2026-11-10T12:07:03+00:00"
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZldfOVhQeUFheFRqSkVoM19ydnplVzRoYWRYamhHYzYzaWlsQzVYcmg5R3FuSHYwYi1HWVlmZTNfYS1oeEdaQmpFRnZnRUFKZi1JdU9KWTlXYlVGM1EyUENhYldUbVFFS0l4TjFWZHo5Z011TWxpcU5WMU9UZ1FVNWpmQXo0dlpGbk50VHd0VGFrTy1kNk9sdTN6X2xNRDFjRG5SbmZJY3dvZzh4LUMyeHppNjdTWVNRczlNQlB2N0t5NUpBZHdXLVlESWRNNGd1ZzFjMDkyZUdmMlFRaGVTYVZrR1Y1NU1QaWcwTF9rYk03UdIB9wFBVV95cUxQakNvRVdoRFIwZEhLaVNGR3NYM2NzaExaNXdmLWNKT2tyQmNDek1DbEc4Und2VEhiMUV2SUlGclhWT1BIQnYzdHlsSWxGS0pfUGM3M05NOEdRSjZMV1hfdTBZSEZDUkRfRlpZOXJjMVBJNDRWdHFiM0FaN3RlampVdEFSSXpWX0VKaUJFckpJYnpYNFo2ZmlScWJOcXg0NExleGNUa1FtOVJyWVdZeDJrdVFEM2huOFpLVkx4VFYyWTdmOWZhRWtGVjI5aTludHV6ZmEtMkdKdWRhN0FNeWJEYzRLbXJOX2N3bW5ybXhsYjhQNzBYZDFF?oc=5",
+          "published": "2026-11-11T04:21:58+00:00"
         },
         {
-          "title": "Google.org backs Pune-based healthtech startup Froncort.AI with $2.3 M to triple TB screening efficiency - BioSpectrum India",
-          "summary": "Google.org backs Pune-based healthtech startup Froncort.AI with $2.3 M to triple TB screening efficiency    BioSpectrum India",
+          "title": "IPL eyes expansion to 12 teams; Pune, Vadodara in contention - The Shillong Times",
+          "summary": "IPL eyes expansion to 12 teams; Pune, Vadodara in contention    The Shillong Times",
           "source": "Google News Pune",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYXktZ2pIdVF2cmZyVFhfcHlPNG84OElFNF9YLUJRbFR0MGMtbUdFenlZTmRoWnVaRnF2UjF4WGE0SVFWblNfUFBpRXFQaFRSWXh2WWlXbHpVa1pJcEM3Y3o3MkhPcEhHVXdtU29FVjlJbElzdG1iZ3Y0MWlybHVQVjJZdzBTa2d6ZXVHTVR0Qm5UanlxREZTelpDLVY1Rl9ZOFZpclRxakRycnBLWmsyRnd4WVBrRHRSLVNITndaUTJNcjJyck5jRUJXOW5ZRU43cTVvdmhaUk42QjY5aE9hcFVjSTlCUQ?oc=5",
-          "published": "2026-11-10T11:00:37+00:00"
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSUhrQ19WNHVURC02OFRwUlgzeXZZeXk4S0hyM0U1cl9QYndaQzBuY0d6ODZ1eS13Z3liOHpkc1B2a0Y1NF9ZVkV4S3BuaTA1SVhpVy1taks1WnA5U1I3eHJJTkJtcWVkb2NHYW01Y1VCaU80anBLY1ptV09ueXY4NnB2a3Y4emd2ZXZvR3oyWWprTzFacFN1cUVCRDRoQVNR?oc=5",
+          "published": "2026-11-11T02:54:11+00:00"
         },
         {
-          "title": "BCCI Plans IPL Expansion From 2028; Pune and Vadodara Shortlisted for Two New Franchises: Report - Gujarat Samachar",
-          "summary": "BCCI Plans IPL Expansion From 2028; Pune and Vadodara Shortlisted for Two New Franchises: Report    Gujarat Samachar",
+          "title": "Pune scientists propose CAG-repeat hypothesis for psychosis - UA.NEWS",
+          "summary": "Pune scientists propose CAG-repeat hypothesis for psychosis    UA.NEWS",
           "source": "Google News Pune",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbjUzMmxzeUtKeDVUQ3oyTDBQN3N1SUdBQmM4VjVMZFBfeEJhbk5yZWpJRjhCM3RsUkExV0JQZHN1WlZoYVFCMTJUdDF4NDdsdEZ2OHp0MEFKZ2RIWDFVc1FFV3FWV2NjMS1sYXd2SE1kVllVOWxkU2V3TWtCR0E3dVEzMlJVcEtvX2x5djROSFN5WnVqRndXZzRob2ZJeWVlSWptb3RVMlVVYTdlTTNCSS12alhNUFpDdnpGWHR0NUpxQ0R3VXVXWDcwVUdBSW9SbGt0OE9KbXRZSlFmWjVVN2lHaVpibGxYanc?oc=5",
-          "published": "2026-11-10T09:33:28+00:00"
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdVhWYXJxYUluT1hyLXN5SUdWUTJyMkNQeHZzNGpyM2dXU0xRVDFQY0ZSR3pkUklWOXczOWVRQWZLcjFwa2VNOXFDUnpTQUJXTmFxdHB4RjA3T05odDdydXNjTzB6NWJXR3NTZEVEaTVkcTZzdXlqMFVTMmg1RHpkVVBnVW9QR1Jrek93c1RsRXhZdVUzdm5YUUh3ZEZVN0xadE51dlhfN3g1eS1oUVlhNTBLLWNfRTRzb1NJdHFydWZiTmt6ZEtDSl9TNi1xd3MwaF9RQ0lmNk05dXlJXzFMUw?oc=5",
+          "published": "2026-11-11T02:23:29+00:00"
         },
         {
-          "title": "Maharashtra theft: Pune Police recover gold jewellery stolen from elderly woman’s house, arrest accused - Mid-Day",
-          "summary": "Maharashtra theft: Pune Police recover gold jewellery stolen from elderly woman’s house, arrest accused    Mid-Day",
+          "title": "Four Pune Metro stations in Baner and Balewadi remain closed, disappointing residents - Prop News Time",
+          "summary": "Four Pune Metro stations in Baner and Balewadi remain closed, disappointing residents    Prop News Time",
           "source": "Google News Pune",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOTZrcWwzUkFJYktqMm1LSjBpMmNKNlkzOWZQVjUzNEFZUkFZd1ZBVm9TTlpLakZaaFAwcXZwYXpqZmcwaUNxQnpoYWtEeWtjXzRuMk93d1djRkg0STdJUGhZS0VBY0poT1hZTWRCa3g4djIxeFZ1M2FTZXpENTM1b0RjWDdjeGdfakczZWFnbFdlTW5TYngtcWw0TExvV2FYN3ZlVmNKTUVhcDFNT0E4Njc2M2VKNWpTcGNCOGx4SWYxNjkza2MyN0ZwdWZ5T2NoTEQtaTRjUDAwOUJKYkhaLVBJTHVXcWxUQm5CY3FB?oc=5",
-          "published": "2026-11-10T09:33:00+00:00"
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNemVuOGR1QTViZWpLa24tbjNCSF9GdDhrWGpQZ09abFltaEVEYWc1aGVIT1A4dWpyRnpuNUtxZk5UaEY2N1FRTXJRcUE2MkVZYnJLalc0NGZCbnRaTXdTRnFyRm8tS0VSbWdZd0xJVDRVR3M3d056T2F0c0ZQdGlWaTNidUU1dUxSc0RIN09vZ1labm90aTdISk9PNTYxMnFWb014bXRlYW1mS2FQZ25kTm1COVlxZFV5WlAzaFdFbXRaRlRVZVNaYUVDSDZGY0I3YWc?oc=5",
+          "published": "2026-11-11T01:22:45+00:00"
         }
       ]
     },
@@ -456,74 +456,74 @@
       "name": "Sports",
       "stories": [
         {
-          "title": "India A-New Zealand A series ends in draw after rain washes out fourth day of third unofficial Test - The Hindu",
-          "summary": "India A-New Zealand A series ends in draw after rain washes out fourth day of third unofficial Test    The Hindu",
+          "title": "New Zealand name squad for upcoming India Tests, Rachin Ravindra, Devon Conway set to make a return - India TV News",
+          "summary": "New Zealand name squad for upcoming India Tests, Rachin Ravindra, Devon Conway set to make a return    India TV News",
           "source": "Google News Cricket",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdjZiWGZlOVNtdDhLTzhobnF5aWEzWUFnSUdsRzV1aGZDMHN4WW5DcGhGdTRhczh4T3BvYmxNc0dsellpREtZX01yVVpza05TOTA4VWhEc0ZBeTJJeTFDRFAzT2hCa1k3b0tiNHdFSFRWRHhkMFVDVG1pSE9lWGxnVkNtSFF2Nno5YmVoTXU0WXFjRGpZWDFrUFQ0LUU4VkJSdXIteHItcFF6YWlkQUNxakpWODRqV25iY3VYR2YxMW1NTExOcWlIajFfZEUzUEtHZ2dEeVFsb2dNb2k2dlBWQjRFNEh4RGktT1NTaEVRUdIB9gFBVV95cUxPVFFLVDBLN2tDOUg0emRJRklWLTJiei16bERhM0pTaGNlcGJmY1d2R2VDUkFjSlJtcmZ2R2tETTBsMUVrY3RFRF9NLU92cExZbjVDbDU2d3RwQ3JSenRzSnl2RGFoc3VaTEo4SkV4WGw5ZUhpQndLM3RvZXoyckdPUzRLaWVac1BJX0RRdzhkWkllbWltN25fOVFGRUdVSkg2eGRZek4wdk9mb2ZKWGhLSHpqTXdmdUZiWmVsejZSbDVTc2ZZQmVnZ3g1MTZUQ1d2VHhsWFFsMDFuWC1EZDhXSzJ5dTNDUlNFa0JxeWVaSlZuc2JmVmc?oc=5",
-          "published": "2026-11-10T19:44:00+00:00"
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMzRQZ2NLMms0b0JBWENyRDE1eVRSM3lZTG1pZnRiYXdiWThveTFuTGxNQzJGZVdVdy1jckVVeUFEYmRma0VfZlNMaThOZDlkcURlN2NJbXFabjBpYmdvR1B5aER2Tmw3OC0xTE9PQi1EWFQ0UXZqcTV4eFg2UnEzXy16YTBKQm1BTVNtODVMR05XYzFEZm84LTA4QUg1UTQ0X1h2eXo1SE9qNExTaGViM3JfVFRRVHZJYkZlc1NRWEtnQUFjTGRFVTIwMWw3MVN1TEo1cXlrX1NQdE9ORUNBNnF0U3dOdktxcTNocExKRlrSAfYBQVVfeXFMTi1hV1RzY1h3UWNaSDh6UktwR2w5R3hJYVI1c1NQNU5YSEVvVWpGRE1KUnJIYjdCd2VkMzh0TWF3SUpNSkJZUzZIOFdUYWhLQ3I1T1dWT29HRThpcmNta0dyMGFjbG1wMWFhdDZDb1c0dW9sVzZYem8xTENZUkpyOUI1YUx4X0tjNEFZWi15b0lwTzQxeFNBLWE3WDdsTkZ3Rm0tamVKOG5xYnk2eHEweUdZSXdKWmJkalpRY1lkTHRsWWhGM3hDZ2lMN3RkMmh4OGpKWmJxLWNRTi1jM1hYS1Iycl93bEV6QkNOdEE2OWtrZWlVTEVn?oc=5",
+          "published": "2026-11-11T06:47:21+00:00"
         },
         {
-          "title": "'His last World Cup and not last match' - Virat Kohli won't retire after 2027 ODI World Cup, claims childhood coach Rajkumar Sharma - Yahoo Sports",
-          "summary": "'His last World Cup and not last match' - Virat Kohli won't retire after 2027 ODI World Cup, claims childhood coach Rajkumar Sharma    Yahoo Sports",
-          "source": "Google News Cricket",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKTXdvbEJKWGZySTlfdU8tcnA0TC1zcjB4M1pVZE9NTC1OYkM5czhwcXpLOG1jVGVBRkltYnFoWk9peDFEQ09Ua2VPbUVzTWNKMHRhaW1qRHJKTU0yVUlCQmEyYzRlMW94eTJrSFNDVVNta1lkWTFGV01iUW8?oc=5",
-          "published": "2026-11-10T19:26:01+00:00"
-        },
-        {
-          "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
-          "summary": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
+          "title": "Who am I? Plus today's other quizzes",
+          "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
           "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-10T18:12:02+00:00"
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmy4x9en5k3lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-11T06:47:18+00:00"
         },
         {
-          "title": "Sanju Samson back in Kerala colours, named Syed Mushtaq Ali Trophy captain - India Today",
-          "summary": "Sanju Samson back in Kerala colours, named Syed Mushtaq Ali Trophy captain    India Today",
+          "title": "Ravi Shastri Names 'Workhorse' Who Could Shine For India In NZ Tests: \"When The Going Gets Tough\" - NDTV Sports",
+          "summary": "Ravi Shastri Names 'Workhorse' Who Could Shine For India In NZ Tests: \"When The Going Gets Tough\"    NDTV Sports",
           "source": "Google News Cricket",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMkNqNUlSSnlHS0dVa29hRGIyaVRnSGhwcHZTQlAyY0wyLUxJV29uRVNqZXFGM2JzNDlaVUJOMzdwZjNQZTdzM1hEdU05QkZhOFJvaWZuN3RUT1FMM1NwSjRLT3VUUTRQaVBvd3NLanlYVXV0OHhadVFyYU1QSGVub1JGb0o4ZXN0SUU5VTNKckU4OVRZcjY0dWNnRXNMaGQzcV9yUFVuZ3MyOEVMd2d0dnFCQVc2NUNBdDIxRDkzWk9pX3lRZUZF0gHMAUFVX3lxTE9kbDJxVVZKUzBPaXFBUjBjVk9aUGM2X054a19jVVo0SVNYSTZHY1NreHlTbkhJNUVwbkhlWkl0SVgzSVVmbExLTlhFT2V3Ri1ia3N3b2FteHZoTHBoU1FoNjFOVDUzT0JYc0V2OG5HZng4T1ZUdy15cWtOcnZvdW5mSDc2QTZzTmRoUmpuUXZja3pMME5DekdWRVYyYnNTUVAyU05rVklnNERxR0ltV3JBNjhOMnNETE5Ua2NGT0JPMkJWeUI5Qy0xUnhtcQ?oc=5",
-          "published": "2026-11-10T18:03:26+00:00"
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRWF2dmdZNllELUFuNUlvbVlKTExBOUNSMGRqRWRrSTRoVFNta2RyN05PUjlhc1l1WVM5aDVCaF9MbXdCemQ4MlhvajQtcmh4M1lKV3RxdWZJVl85NVlEME05ZV9xdEo2eFdrdGFwQWRKb3drbnVHUXItNzdRNGJ3TG14YkZQaW4wamdQeDJ6SmtPcmFFTVJtWWNzOEgwb1ZqT055M2JlNkpJLXB4VEZOcVRnRVEycHBVQjlRZkRkc1FyY29paWJfUGZfbmR3dTN4TWNjM1RuQVdLeE9kNVZhd0Q4SEJRMDN3U2c?oc=5",
+          "published": "2026-11-11T06:35:34+00:00"
         },
         {
-          "title": "Johnson says definitely more to come after 50 caps",
-          "summary": "Brennan Johnson says he is happy with what he has achieved in football but would like to reach more major tournaments with Wales.",
+          "title": "Does Pickford finally face serious competition for his England place?",
+          "summary": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
           "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c58jzj8k08lzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-10T18:01:03+00:00"
+          "link": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-11T06:24:28+00:00"
         },
         {
-          "title": "India vs New Zealand: Focus shifts to player pool after washout - The New Indian Express",
-          "summary": "India vs New Zealand: Focus shifts to player pool after washout    The New Indian Express",
+          "title": "Why Fury was born to fight",
+          "summary": "Inspired by his father John and drawn to boxing from a young age, Tyson Fury went on to become heavyweight world champion. BBC Sport takes a look at the defining moments that shaped one of Britain's most extraordinary sporting journeys.",
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/boxing/videos/cwx29gd12xjko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-11T06:24:24+00:00"
+        },
+        {
+          "title": "Sachin Tendulkar gifts prized cricket bats, memorabilia for display at MCA Sharad Pawar Cricket Museum - The Tribune",
+          "summary": "Sachin Tendulkar gifts prized cricket bats, memorabilia for display at MCA Sharad Pawar Cricket Museum    The Tribune",
           "source": "Google News Cricket",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUE16bU1LVmFCX2U1eXRlVXpGSXlrUUU1VF9GbkJYN2Fpc0UxUkFNdVByUDM4eVlSOTY4UUVodnBWczdMcTFObk9nY0xmRWg4RTRyUERSbnUxQTVDaXB4Uk9VME1JWFRqeHUxX2hrQkdNMTd3Vmo3WHdJWXdUdUgySW9FTkMtN2NLVWtRR092QTYyakNMYlRGcExjRlNDcUVSRkNPVGtaeTJBX2gtc05vRzBaV0pCUdIBwwFBVV95cUxOOVNDVUJlTUt0eGJoREFnOXlCSjQ0Q0Q0R1RlbkZPM1FxOWZueUY4NmJocjFaZ1BHeDVqR2lrMU1DWGlOTkNDdWZZNjhJYUQtRVgyZXlJVDY0ZzlZT25WYjIza25vSzkyQXJ1aW4yT3RZZVIxbWJOaDVWekljR01mUjc3b2lnVTVEWUZvNzN5djBXbU9zbHBpV2VEeE53QTNJQ3VnTE4tT0h6enlCQmc4R1FNVmZlMzBSY3FHNzBCNTNpbTg?oc=5",
-          "published": "2026-11-10T17:57:19+00:00"
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaGRybXZBaFhQMUN4dWtpOVpEYTh1cFc1UXVQOE1UQ2g1c1ROc0lCcU5EbnBTdWl4SHZpdVRXckNNYWlSR1B0bDdaa1N4NmZ4QTJ6SnRhdGpfRnNBbWZpc2x3Q3RBazFWZnNYTEJaang3bkE3TVVZVnpwX3VfUDl1cEkxckFjMGdPVGJOWVNDcDBianhCU1dNcWk2blE1ZnlZV1JPc1oxNUNFbHgzOXFXaWNkVW1hTURvcGh4UHVhVE84NmlqSW9LMnl1eFE5ODVrQmRwLWp1VjBFWk3SAd8BQVVfeXFMT2JPeHdTVEp2a2lEb25McF95a183WEFNeEZObWpwQmFHdVJKZGltTTdLNVNoT29kUGl3VWxJVDdqVUhLYnloZjRYdHB6YmZ4eGo4NXZZNzZfYWpVd2trdFlZMTc3ZDlPN3pjTnZaVy1lY3pHMEhmUERzb0pETnRlMlRBMG5ScVUyVlJUQXJOUUFabDl3YndRN2NYR05WdVA1QkZ2TjZxQzVfU1hUV2FscUtsODZrUF9BQ3MwTEdWRU1CN2lRSWZhVE8wZDMzOHBuWDY1OHJtU3d5cVFGTk5oWQ?oc=5",
+          "published": "2026-11-11T06:22:18+00:00"
         },
         {
-          "title": "Pant on course for NZ Tests; clearance expected on November 12 - Cricbuzz",
-          "summary": "Pant on course for NZ Tests; clearance expected on November 12    Cricbuzz IND vs NZ: Rishabh Pant to leave for New Zealand after Wednesday’s simulation    The Times of India Bumrah, Jadeja headline India-A’s final red-ball game    The Hindu Jasprit Bumrah and his steely will to restart    Hindustan Times Rishabh Pant 'completely fit', set to leave for New Zealand on Nov 12    Rediff",
-          "source": "Google News Sports India",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeFB5WEEySk1HVm1NZUlaTXJjVF9WSjdsa1owcm1HS1pSNksyb2g0X3ktMTl6TWpoUDI4eFYxTUVUcjJ1WVJuejlMajFYbmpUQ3liWUFhY1J4bGVtQlc0LTlYWTYwXzRMenF2c3pxTWNNLXB5UjNjUTJIcDgwOGZ0VkNQZVBpSW5mQjJNSnFuM3ZfcmdRTDAzN2x4YjBFZWtBanhBb2RsQ1NvblJMMEs5dVJNd2dkbVZqWTlveE9YejduaTlnQlo1R2R5M0JoWE1DUlE?oc=5",
-          "published": "2026-11-10T17:23:44+00:00"
-        },
-        {
-          "title": "McTominay reveals heart treatment at World Cup",
-          "summary": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June.",
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-10T16:46:31+00:00"
-        },
-        {
-          "title": "Surya rediscovers joy of cricket after the pain of India axing | Cricket - Hindustan Times",
-          "summary": "Surya rediscovers joy of cricket after the pain of India axing | Cricket    Hindustan Times",
+          "title": "Sanju Samson turns 32: Records held by India's swashbuckling wicketkeeper-batter - ANI News",
+          "summary": "Sanju Samson turns 32: Records held by India's swashbuckling wicketkeeper-batter    ANI News",
           "source": "Google News Cricket",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcDBqSUt5ZDk4ZzlvQmlDcXZmMnY2bm1qMzBpN0lxc0diSVVJbG5uSWlGenJObk5wMnVwajNEQlVZREVyejlBQUYyV1RXc29wSlVtRkQ2M0hBeFZzOUczTkU5Mk51YTN3S045MENxdkVqci12MEZCZThaRHRqNFZQQ2d5ajJqemNEenh6UDdEREx3SUJWYi15QUlEb0E1cTdOejJvU0dBMGlZNk9JRnRMSFVyd1hpYUU0VFhld2c1d9IBxAFBVV95cUxQZi1vSTI4X2lxdzROZVhXRldjTGZRN083V0YxUWFVWkdRUEh1RjNWcS1wRWpKajRVaU9WN0tOWXFpMENnY3NBeG5NandyU0dFZGdwbXRSN2FPR3R6Q21oVFZLMGNfTVdfRlNqVEhLdW81Sjl6WTQxbVdLbGFyRC1jMFM0OHpaa3JaX1NkWVlPNHJCN3c2MHp3RGJYdjl4WmhERU1pS3o1U1lwY1VTamNxWU9zcnBuMk92OG5DT1drQUhSX3dl?oc=5",
-          "published": "2026-11-10T16:35:04+00:00"
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLWZZMUdLTjhQODNBUjJDX19ObGE4dnRMLWdDeWpJYjBBLVBMbDAtY0VfYUlHWWN3NEVFdlRlU3B5eTlzWkphUnpaNWhZcHNlak9uUVBHbFN2YUY3S2E5VzQtQ29xcDlUdWM5OGctYjIyT01OQjdlOVQ2SUV6bjgwb2c2N3ZJamZDZUhyS2NjeDAwRklRcklLYlBGM2ZrM2t6ZDM0WjFyUlpiMTF6bTFsODNVczN3MzA3UHBDUDRBYWpSaC1uc0x3ZUw0QzZrUVVW?oc=5",
+          "published": "2026-11-11T06:10:00+00:00"
         },
         {
-          "title": "England hammer Australia to reach final",
-          "summary": "Rob Hawkins scores five tries as England hammer Australia 86-18 to reach the Wheelchair Rugby League World Cup final.",
+          "title": "Wales prop Francis targets fourth World Cup",
+          "summary": "Wales prop Tomas Francis says the prospect of playing in a fourth World Cup drives him on.",
           "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/rugby-league/videos/cm5ynyez127xo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-10T16:32:17+00:00"
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckyvrvz5jz7yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-11T06:09:57+00:00"
+        },
+        {
+          "title": "‘If it wasn’t for the rain’: Matt Henry feels New Zealand could have pushed India in ODIs - The Times of India",
+          "summary": "‘If it wasn’t for the rain’: Matt Henry feels New Zealand could have pushed India in ODIs    The Times of India",
+          "source": "Google News Cricket",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQT0xPUHk0cmpkZGhPbXhrZDE5VnRlSVl3WmNWcVBFUzIzY25UMzZ1M293YVpnZ2RQOHBINmlJTFBQRWlQTmtSOXlDTEE0UzJDNWdQY1Y3c0d0SVRCNnBoZWhBcEdYMVI0bzAybk16WC16YXUtMG80QmZTalFMS09nVDB0MVdYYTlSQkFpLTI3cFRXTFRDNXY2bmhuY0dnZmJnbUZFcThtSFd5bjdfRGRIUnFDa3lhN1RuQ0hkZlhuTmZ1VkpUMU80ckJQa1p1VmRJNUJxT0dBaW1TU1pFTWYzMEZ6Ukp4MjZnOW9NTUtMeE5YUkxJc3llR1VLVjN1RGdBTVZJM1IyOVpDdGo3bDNmcVhBLURrMnc1MTREVm10N1lRT2pYUEhVWHFkWlRJN3pwZ001WDVJWERKa05jbXhmb1hvOG4zellvcVZzWjFIRzhKZnZvSU9iWk5GNGt5Tl9F0gGWAkFVX3lxTE9RVVRIdVI2b2ZGRm9RMkV4M2JvdEg4T0MyUWMwcElWRkh2alhrcUJXbkFzWkNCMnVBWWcyMVpCdjlDc3FmYWRBbjN1ZnA0Q2FzWUpxc0l5Q1BFcVhDRTFPVmxXbXlka25ISjVWaTdVNTFsc3RBRHViaHliUXZVcTBsWjByeEN0NXBVcUdWZnNGajlreDNPWDh3SXFLMDdYTzBhbVc1bGY0U21mbm5uTGs3Smd0aDdKZW1JZ2Y4OVpYVXlXSFNidWxXLWhwOTRFbTltR2tfQ3RzZmFaa1o2YWFuVm9BdXNCclZzRGkzdHJkRThhZFpvVGJRS1k0QXIxMU5Wa3IxdEFMZzdlbHB3UTVyeHB2N19R?oc=5",
+          "published": "2026-11-11T06:08:00+00:00"
+        },
+        {
+          "title": "Matt Henry eager for India Tests, puts injury woes behind him - Rediff",
+          "summary": "Matt Henry eager for India Tests, puts injury woes behind him    Rediff",
+          "source": "Google News Cricket",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT3BSNGNIbkJWc2l4U2ZKSFB2QnRyLUFuemNWbF93S0dOd3ZQQ29NU3dRSWM1NDM4MzVnWG0yT2tPVFdtRlNCSjIxalBhTDRyNS1OVFpjSTR1NzZoOEZiU0hXdUt5VEpPSVgxSzdPMGFiM2NfWkRkejM1UDFyU0ZYenlnV1AtTUdvUGNZMXN1V1RXVjluRFdEem1ibEh6LV8tNHk5ZnlwRVB3VUxYSWYwR3hyQ1VPcEcxSW9lUF9yZ3RkMU55ZTNHdzZkT3RwQdIB0AFBVV95cUxNNUxSeUZfMXplLUYzYUlEUlRuN2VwLXpEaDZQbjR5bExDOFpRLTFpdmJoNEdaSDF1dlVicDd0RmQzR3Q0T3d2OTlQRFhCS3lxektDSW5RRUN1YzZzajBWRllkYi1Ub1ZJUlIwQ01oYXMyVFFpcUNtZU93cF94RHc1YXVuUUN6eGFBb1kySlNnR2ZLVExCcmdNU1dLbVVKSjJWdHM0YmlQaVZ3SDdhd1VmS3dmLUVkSlRMcU52NHVCYWVtOGxIVWxvUldmOVFOX3kz?oc=5",
+          "published": "2026-11-11T05:49:54+00:00"
         }
       ]
     }
